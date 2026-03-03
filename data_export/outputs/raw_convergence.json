@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-01T23:24:52.421143Z",
+    "description": "Raw convergence rates across all pairs (no filtering for bias)",
+    "metric": "Raw convergence rate (% of pairs converged)",
+    "note": "For thinking models, control uses non-thinking config, coordination uses thinking config",
+    "models_included": 0,
+    "datasets_per_model": 4
+  },
+  "results": []
+}

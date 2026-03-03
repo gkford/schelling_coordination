@@ -1,0 +1,3904 @@
+{
+  "gpt-4.1-mini": [
+    {
+      "pair": [
+        "average",
+        "thriving"
+      ],
+      "status": "converged",
+      "winner": "thriving",
+      "ab_response": "thriving",
+      "ba_response": "thriving",
+      "ab_choice": "thriving",
+      "ba_choice": "thriving",
+      "timestamp": "2025-08-06T13:38:02.337060"
+    },
+    {
+      "pair": [
+        "handle",
+        "peace"
+      ],
+      "status": "converged",
+      "winner": "handle",
+      "ab_response": "handle",
+      "ba_response": "handle",
+      "ab_choice": "handle",
+      "ba_choice": "handle",
+      "timestamp": "2025-08-06T13:38:02.567364"
+    },
+    {
+      "pair": [
+        "cabinet",
+        "gypsum"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "gypsum",
+      "ba_response": "cabinet",
+      "ab_choice": "gypsum",
+      "ba_choice": "cabinet",
+      "timestamp": "2025-08-06T13:38:02.598953"
+    },
+    {
+      "pair": [
+        "serenity",
+        "unity"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "unity",
+      "ba_response": "serenity",
+      "ab_choice": "unity",
+      "ba_choice": "serenity",
+      "timestamp": "2025-08-06T13:38:02.615144"
+    },
+    {
+      "pair": [
+        "clip",
+        "unity"
+      ],
+      "status": "converged",
+      "winner": "unity",
+      "ab_response": "unity",
+      "ba_response": "unity",
+      "ab_choice": "unity",
+      "ba_choice": "unity",
+      "timestamp": "2025-08-06T13:38:02.834203"
+    },
+    {
+      "pair": [
+        "average",
+        "insipid"
+      ],
+      "status": "converged",
+      "winner": "average",
+      "ab_response": "average",
+      "ba_response": "average",
+      "ab_choice": "average",
+      "ba_choice": "average",
+      "timestamp": "2025-08-06T13:38:03.497456"
+    },
+    {
+      "pair": [
+        "tranquility",
+        "utopia"
+      ],
+      "status": "converged",
+      "winner": "tranquility",
+      "ab_response": "tranquility",
+      "ba_response": "tranquility",
+      "ab_choice": "tranquility",
+      "ba_choice": "tranquility",
+      "timestamp": "2025-08-06T13:38:03.544011"
+    },
+    {
+      "pair": [
+        "adequate",
+        "wonderful"
+      ],
+      "status": "converged",
+      "winner": "wonderful",
+      "ab_response": "wonderful",
+      "ba_response": "wonderful",
+      "ab_choice": "wonderful",
+      "ba_choice": "wonderful",
+      "timestamp": "2025-08-06T13:38:03.708456"
+    },
+    {
+      "pair": [
+        "outstanding",
+        "paradise"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "outstanding",
+      "ba_response": "paradise",
+      "ab_choice": "outstanding",
+      "ba_choice": "paradise",
+      "timestamp": "2025-08-06T13:38:03.823837"
+    },
+    {
+      "pair": [
+        "desk",
+        "wonderful"
+      ],
+      "status": "converged",
+      "winner": "wonderful",
+      "ab_response": "wonderful",
+      "ba_response": "wonderful",
+      "ab_choice": "wonderful",
+      "ba_choice": "wonderful",
+      "timestamp": "2025-08-06T13:38:03.889621"
+    },
+    {
+      "pair": [
+        "asphalt",
+        "generic"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "asphalt",
+      "ba_response": "generic",
+      "ab_choice": "asphalt",
+      "ba_choice": "generic",
+      "timestamp": "2025-08-06T13:38:04.361613"
+    },
+    {
+      "pair": [
+        "gypsum",
+        "perfection"
+      ],
+      "status": "converged",
+      "winner": "perfection",
+      "ab_response": "perfection",
+      "ba_response": "perfection",
+      "ab_choice": "perfection",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:04.751752"
+    },
+    {
+      "pair": [
+        "hinge",
+        "prosperity"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "prosperity",
+      "ba_response": "hinge",
+      "ab_choice": "prosperity",
+      "ba_choice": "hinge",
+      "timestamp": "2025-08-06T13:38:04.801962"
+    },
+    {
+      "pair": [
+        "clipboard",
+        "wholesome"
+      ],
+      "status": "converged",
+      "winner": "wholesome",
+      "ab_response": "wholesome",
+      "ba_response": "wholesome",
+      "ab_choice": "wholesome",
+      "ba_choice": "wholesome",
+      "timestamp": "2025-08-06T13:38:04.830850"
+    },
+    {
+      "pair": [
+        "generic",
+        "gutter"
+      ],
+      "status": "converged",
+      "winner": "generic",
+      "ab_response": "generic",
+      "ba_response": "generic",
+      "ab_choice": "generic",
+      "ba_choice": "generic",
+      "timestamp": "2025-08-06T13:38:04.901554"
+    },
+    {
+      "pair": [
+        "bolt",
+        "radiant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "bolt",
+      "ba_response": "radiant",
+      "ab_choice": "bolt",
+      "ba_choice": "radiant",
+      "timestamp": "2025-08-06T13:38:05.677411"
+    },
+    {
+      "pair": [
+        "optimistic",
+        "vivacious"
+      ],
+      "status": "converged",
+      "winner": "optimistic",
+      "ab_response": "optimistic",
+      "ba_response": "optimistic",
+      "ab_choice": "optimistic",
+      "ba_choice": "optimistic",
+      "timestamp": "2025-08-06T13:38:05.744717"
+    },
+    {
+      "pair": [
+        "gasket",
+        "unity"
+      ],
+      "status": "converged",
+      "winner": "unity",
+      "ab_response": "unity",
+      "ba_response": "unity",
+      "ab_choice": "unity",
+      "ba_choice": "unity",
+      "timestamp": "2025-08-06T13:38:05.835687"
+    },
+    {
+      "pair": [
+        "adequate",
+        "wisdom"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "wisdom",
+      "ba_response": "adequate",
+      "ab_choice": "wisdom",
+      "ba_choice": "adequate",
+      "timestamp": "2025-08-06T13:38:05.880766"
+    },
+    {
+      "pair": [
+        "corridor",
+        "serendipity"
+      ],
+      "status": "converged",
+      "winner": "serendipity",
+      "ab_response": "serendipity",
+      "ba_response": "serendipity",
+      "ab_choice": "serendipity",
+      "ba_choice": "serendipity",
+      "timestamp": "2025-08-06T13:38:06.187646"
+    },
+    {
+      "pair": [
+        "bucket",
+        "chair"
+      ],
+      "status": "converged",
+      "winner": "chair",
+      "ab_response": "chair",
+      "ba_response": "chair",
+      "ab_choice": "chair",
+      "ba_choice": "chair",
+      "timestamp": "2025-08-06T13:38:06.549520"
+    },
+    {
+      "pair": [
+        "insulation",
+        "triumphant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "insulation",
+      "ba_response": "triumphant",
+      "ab_choice": "insulation",
+      "ba_choice": "triumphant",
+      "timestamp": "2025-08-06T13:38:06.585538"
+    },
+    {
+      "pair": [
+        "drywall",
+        "flange"
+      ],
+      "status": "converged",
+      "winner": "flange",
+      "ab_response": "flange",
+      "ba_response": "flange",
+      "ab_choice": "flange",
+      "ba_choice": "flange",
+      "timestamp": "2025-08-06T13:38:06.846199"
+    },
+    {
+      "pair": [
+        "basic",
+        "sunshine"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "basic",
+      "ba_response": "sunshine",
+      "ab_choice": "basic",
+      "ba_choice": "sunshine",
+      "timestamp": "2025-08-06T13:38:06.850870"
+    },
+    {
+      "pair": [
+        "hallway",
+        "success"
+      ],
+      "status": "converged",
+      "winner": "success",
+      "ab_response": "success",
+      "ba_response": "success",
+      "ab_choice": "success",
+      "ba_choice": "success",
+      "timestamp": "2025-08-06T13:38:07.287688"
+    },
+    {
+      "pair": [
+        "dowel",
+        "grout"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "dowel",
+      "ba_response": "grout",
+      "ab_choice": "dowel",
+      "ba_choice": "grout",
+      "timestamp": "2025-08-06T13:38:07.514113"
+    },
+    {
+      "pair": [
+        "rejoicing",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "wonder",
+      "ab_response": "wonder",
+      "ba_response": "wonder",
+      "ab_choice": "wonder",
+      "ba_choice": "wonder",
+      "timestamp": "2025-08-06T13:38:07.575873"
+    },
+    {
+      "pair": [
+        "generic",
+        "wondrous"
+      ],
+      "status": "converged",
+      "winner": "wondrous",
+      "ab_response": "wondrous",
+      "ba_response": "wondrous",
+      "ab_choice": "wondrous",
+      "ba_choice": "wondrous",
+      "timestamp": "2025-08-06T13:38:07.865236"
+    },
+    {
+      "pair": [
+        "button",
+        "curtain"
+      ],
+      "status": "converged",
+      "winner": "button",
+      "ab_response": "button",
+      "ba_response": "button",
+      "ab_choice": "button",
+      "ba_choice": "button",
+      "timestamp": "2025-08-06T13:38:07.889123"
+    },
+    {
+      "pair": [
+        "desk",
+        "vibrant"
+      ],
+      "status": "converged",
+      "winner": "desk",
+      "ab_response": "desk",
+      "ba_response": "desk",
+      "ab_choice": "desk",
+      "ba_choice": "desk",
+      "timestamp": "2025-08-06T13:38:08.366906"
+    },
+    {
+      "pair": [
+        "doorframe",
+        "success"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "success",
+      "ba_response": "doorframe",
+      "ab_choice": "success",
+      "ba_choice": "doorframe",
+      "timestamp": "2025-08-06T13:38:08.851189"
+    },
+    {
+      "pair": [
+        "basic",
+        "duct"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "basic",
+      "ba_response": "duct",
+      "ab_choice": "basic",
+      "ba_choice": "duct",
+      "timestamp": "2025-08-06T13:38:08.989583"
+    },
+    {
+      "pair": [
+        "desk",
+        "tenderness"
+      ],
+      "status": "converged",
+      "winner": "desk",
+      "ab_response": "desk",
+      "ba_response": "desk",
+      "ab_choice": "desk",
+      "ba_choice": "desk",
+      "timestamp": "2025-08-06T13:38:09.042244"
+    },
+    {
+      "pair": [
+        "sublime",
+        "victorious"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "victorious",
+      "ba_response": "sublime",
+      "ab_choice": "victorious",
+      "ba_choice": "sublime",
+      "timestamp": "2025-08-06T13:38:09.291666"
+    },
+    {
+      "pair": [
+        "duct",
+        "puppies"
+      ],
+      "status": "converged",
+      "winner": "duct",
+      "ab_response": "duct",
+      "ba_response": "duct",
+      "ab_choice": "duct",
+      "ba_choice": "duct",
+      "timestamp": "2025-08-06T13:38:09.552315"
+    },
+    {
+      "pair": [
+        "bucket",
+        "duct"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "bucket",
+      "ba_response": "duct",
+      "ab_choice": "bucket",
+      "ba_choice": "duct",
+      "timestamp": "2025-08-06T13:38:09.877151"
+    },
+    {
+      "pair": [
+        "brick",
+        "corridor"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "brick",
+      "ba_response": "corridor",
+      "ab_choice": "brick",
+      "ba_choice": "corridor",
+      "timestamp": "2025-08-06T13:38:09.890564"
+    },
+    {
+      "pair": [
+        "gasket",
+        "splendor"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "gasket",
+      "ba_response": "splendor",
+      "ab_choice": "gasket",
+      "ba_choice": "splendor",
+      "timestamp": "2025-08-06T13:38:09.926526"
+    },
+    {
+      "pair": [
+        "corridor",
+        "vibrancy"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "corridor",
+      "ba_response": "vibrancy",
+      "ab_choice": "corridor",
+      "ba_choice": "vibrancy",
+      "timestamp": "2025-08-06T13:38:10.456987"
+    },
+    {
+      "pair": [
+        "insipid",
+        "peace"
+      ],
+      "status": "converged",
+      "winner": "peace",
+      "ab_response": "peace",
+      "ba_response": "peace",
+      "ab_choice": "peace",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:38:10.728570"
+    },
+    {
+      "pair": [
+        "bolt",
+        "triumph"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "bolt",
+      "ba_response": "triumph",
+      "ab_choice": "bolt",
+      "ba_choice": "triumph",
+      "timestamp": "2025-08-06T13:38:10.824498"
+    },
+    {
+      "pair": [
+        "cubicle",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "wonder",
+      "ab_response": "wonder",
+      "ba_response": "wonder",
+      "ab_choice": "wonder",
+      "ba_choice": "wonder",
+      "timestamp": "2025-08-06T13:38:10.971821"
+    },
+    {
+      "pair": [
+        "outstanding",
+        "tenderness"
+      ],
+      "status": "converged",
+      "winner": "outstanding",
+      "ab_response": "outstanding",
+      "ba_response": "outstanding",
+      "ab_choice": "outstanding",
+      "ba_choice": "outstanding",
+      "timestamp": "2025-08-06T13:38:11.020622"
+    },
+    {
+      "pair": [
+        "superb",
+        "tranquility"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "tranquility",
+      "ba_response": "superb",
+      "ab_choice": "tranquility",
+      "ba_choice": "superb",
+      "timestamp": "2025-08-06T13:38:11.420827"
+    },
+    {
+      "pair": [
+        "grout",
+        "serenity"
+      ],
+      "status": "converged",
+      "winner": "serenity",
+      "ab_response": "serenity",
+      "ba_response": "serenity",
+      "ab_choice": "serenity",
+      "ba_choice": "serenity",
+      "timestamp": "2025-08-06T13:38:11.731611"
+    },
+    {
+      "pair": [
+        "flooring",
+        "optimal"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "optimal",
+      "ba_response": "flooring",
+      "ab_choice": "optimal",
+      "ba_choice": "flooring",
+      "timestamp": "2025-08-06T13:38:11.749905"
+    },
+    {
+      "pair": [
+        "bucket",
+        "pleasure"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "pleasure",
+      "ba_response": "bucket",
+      "ab_choice": "pleasure",
+      "ba_choice": "bucket",
+      "timestamp": "2025-08-06T13:38:11.951688"
+    },
+    {
+      "pair": [
+        "doorknob",
+        "wondrous"
+      ],
+      "status": "converged",
+      "winner": "wondrous",
+      "ab_response": "wondrous",
+      "ba_response": "wondrous",
+      "ab_choice": "wondrous",
+      "ba_choice": "wondrous",
+      "timestamp": "2025-08-06T13:38:12.006991"
+    },
+    {
+      "pair": [
+        "gravel",
+        "gypsum"
+      ],
+      "status": "converged",
+      "winner": "gypsum",
+      "ab_response": "gypsum",
+      "ba_response": "gypsum",
+      "ab_choice": "gypsum",
+      "ba_choice": "gypsum",
+      "timestamp": "2025-08-06T13:38:12.331924"
+    },
+    {
+      "pair": [
+        "fixture",
+        "phenomenal"
+      ],
+      "status": "converged",
+      "winner": "phenomenal",
+      "ab_response": "phenomenal",
+      "ba_response": "phenomenal",
+      "ab_choice": "phenomenal",
+      "ba_choice": "phenomenal",
+      "timestamp": "2025-08-06T13:38:12.652297"
+    },
+    {
+      "pair": [
+        "flange",
+        "utopia"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "flange",
+      "ba_response": "utopia",
+      "ab_choice": "flange",
+      "ba_choice": "utopia",
+      "timestamp": "2025-08-06T13:38:12.778701"
+    },
+    {
+      "pair": [
+        "folder",
+        "gravel"
+      ],
+      "status": "converged",
+      "winner": "folder",
+      "ab_response": "folder",
+      "ba_response": "folder",
+      "ab_choice": "folder",
+      "ba_choice": "folder",
+      "timestamp": "2025-08-06T13:38:13.014051"
+    },
+    {
+      "pair": [
+        "elevator",
+        "profound"
+      ],
+      "status": "converged",
+      "winner": "profound",
+      "ab_response": "profound",
+      "ba_response": "profound",
+      "ab_choice": "profound",
+      "ba_choice": "profound",
+      "timestamp": "2025-08-06T13:38:13.029143"
+    },
+    {
+      "pair": [
+        "drawer",
+        "sunshine"
+      ],
+      "status": "converged",
+      "winner": "sunshine",
+      "ab_response": "sunshine",
+      "ba_response": "sunshine",
+      "ab_choice": "sunshine",
+      "ba_choice": "sunshine",
+      "timestamp": "2025-08-06T13:38:13.381670"
+    },
+    {
+      "pair": [
+        "optimal",
+        "wisdom"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "wisdom",
+      "ba_response": "optimal",
+      "ab_choice": "wisdom",
+      "ba_choice": "optimal",
+      "timestamp": "2025-08-06T13:38:13.785211"
+    },
+    {
+      "pair": [
+        "caulk",
+        "wondrous"
+      ],
+      "status": "converged",
+      "winner": "wondrous",
+      "ab_response": "wondrous",
+      "ba_response": "wondrous",
+      "ab_choice": "wondrous",
+      "ba_choice": "wondrous",
+      "timestamp": "2025-08-06T13:38:13.882441"
+    },
+    {
+      "pair": [
+        "cement",
+        "utopia"
+      ],
+      "status": "converged",
+      "winner": "utopia",
+      "ab_response": "utopia",
+      "ba_response": "utopia",
+      "ab_choice": "utopia",
+      "ba_choice": "utopia",
+      "timestamp": "2025-08-06T13:38:14.055392"
+    },
+    {
+      "pair": [
+        "playfulness",
+        "vibrant"
+      ],
+      "status": "converged",
+      "winner": "playfulness",
+      "ab_response": "playfulness",
+      "ba_response": "playfulness",
+      "ab_choice": "playfulness",
+      "ba_choice": "playfulness",
+      "timestamp": "2025-08-06T13:38:14.258539"
+    },
+    {
+      "pair": [
+        "optimistic",
+        "phenomenal"
+      ],
+      "status": "converged",
+      "winner": "phenomenal",
+      "ab_response": "phenomenal",
+      "ba_response": "phenomenal",
+      "ab_choice": "phenomenal",
+      "ba_choice": "phenomenal",
+      "timestamp": "2025-08-06T13:38:14.423943"
+    },
+    {
+      "pair": [
+        "rejoicing",
+        "sublime"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "sublime",
+      "ba_response": "rejoicing",
+      "ab_choice": "sublime",
+      "ba_choice": "rejoicing",
+      "timestamp": "2025-08-06T13:38:15.116583"
+    },
+    {
+      "pair": [
+        "sweetness",
+        "vibrant"
+      ],
+      "status": "converged",
+      "winner": "sweetness",
+      "ab_response": "sweetness",
+      "ba_response": "sweetness",
+      "ab_choice": "sweetness",
+      "ba_choice": "sweetness",
+      "timestamp": "2025-08-06T13:38:15.160877"
+    },
+    {
+      "pair": [
+        "doorknob",
+        "treasure"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "doorknob",
+      "ba_response": "treasure",
+      "ab_choice": "doorknob",
+      "ba_choice": "treasure",
+      "timestamp": "2025-08-06T13:38:15.169630"
+    },
+    {
+      "pair": [
+        "doorknob",
+        "radiance"
+      ],
+      "status": "converged",
+      "winner": "radiance",
+      "ab_response": "radiance",
+      "ba_response": "radiance",
+      "ab_choice": "radiance",
+      "ba_choice": "radiance",
+      "timestamp": "2025-08-06T13:38:15.190984"
+    },
+    {
+      "pair": [
+        "gypsum",
+        "profound"
+      ],
+      "status": "converged",
+      "winner": "profound",
+      "ab_response": "profound",
+      "ba_response": "profound",
+      "ab_choice": "profound",
+      "ba_choice": "profound",
+      "timestamp": "2025-08-06T13:38:15.293633"
+    },
+    {
+      "pair": [
+        "baseline",
+        "splendor"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "baseline",
+      "ba_response": "splendor",
+      "ab_choice": "baseline",
+      "ba_choice": "splendor",
+      "timestamp": "2025-08-06T13:38:16.115450"
+    },
+    {
+      "pair": [
+        "serendipity",
+        "thriving"
+      ],
+      "status": "converged",
+      "winner": "serendipity",
+      "ab_response": "serendipity",
+      "ba_response": "serendipity",
+      "ab_choice": "serendipity",
+      "ba_choice": "serendipity",
+      "timestamp": "2025-08-06T13:38:16.132970"
+    },
+    {
+      "pair": [
+        "handle",
+        "sweetness"
+      ],
+      "status": "converged",
+      "winner": "handle",
+      "ab_response": "handle",
+      "ba_response": "handle",
+      "ab_choice": "handle",
+      "ba_choice": "handle",
+      "timestamp": "2025-08-06T13:38:16.220014"
+    },
+    {
+      "pair": [
+        "uplifting",
+        "vibrancy"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "vibrancy",
+      "ba_response": "uplifting",
+      "ab_choice": "vibrancy",
+      "ba_choice": "uplifting",
+      "timestamp": "2025-08-06T13:38:16.390545"
+    },
+    {
+      "pair": [
+        "gypsum",
+        "handle"
+      ],
+      "status": "converged",
+      "winner": "handle",
+      "ab_response": "handle",
+      "ba_response": "handle",
+      "ab_choice": "handle",
+      "ba_choice": "handle",
+      "timestamp": "2025-08-06T13:38:16.469519"
+    },
+    {
+      "pair": [
+        "adequate",
+        "chair"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "chair",
+      "ba_response": "adequate",
+      "ab_choice": "chair",
+      "ba_choice": "adequate",
+      "timestamp": "2025-08-06T13:38:17.292509"
+    },
+    {
+      "pair": [
+        "desk",
+        "wondrous"
+      ],
+      "status": "converged",
+      "winner": "wondrous",
+      "ab_response": "wondrous",
+      "ba_response": "wondrous",
+      "ab_choice": "wondrous",
+      "ba_choice": "wondrous",
+      "timestamp": "2025-08-06T13:38:17.404512"
+    },
+    {
+      "pair": [
+        "radiance",
+        "tranquility"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "tranquility",
+      "ba_response": "radiance",
+      "ab_choice": "tranquility",
+      "ba_choice": "radiance",
+      "timestamp": "2025-08-06T13:38:17.417327"
+    },
+    {
+      "pair": [
+        "gypsum",
+        "uplifted"
+      ],
+      "status": "converged",
+      "winner": "uplifted",
+      "ab_response": "uplifted",
+      "ba_response": "uplifted",
+      "ab_choice": "uplifted",
+      "ba_choice": "uplifted",
+      "timestamp": "2025-08-06T13:38:17.942853"
+    },
+    {
+      "pair": [
+        "virtue",
+        "vivacious"
+      ],
+      "status": "converged",
+      "winner": "virtue",
+      "ab_response": "virtue",
+      "ba_response": "virtue",
+      "ab_choice": "virtue",
+      "ba_choice": "virtue",
+      "timestamp": "2025-08-06T13:38:18.232924"
+    },
+    {
+      "pair": [
+        "button",
+        "wholesome"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "button",
+      "ba_response": "wholesome",
+      "ab_choice": "button",
+      "ba_choice": "wholesome",
+      "timestamp": "2025-08-06T13:38:18.314053"
+    },
+    {
+      "pair": [
+        "beam",
+        "carpet"
+      ],
+      "status": "converged",
+      "winner": "beam",
+      "ab_response": "beam",
+      "ba_response": "beam",
+      "ab_choice": "beam",
+      "ba_choice": "beam",
+      "timestamp": "2025-08-06T13:38:18.384129"
+    },
+    {
+      "pair": [
+        "bland",
+        "victory"
+      ],
+      "status": "converged",
+      "winner": "victory",
+      "ab_response": "victory",
+      "ba_response": "victory",
+      "ab_choice": "victory",
+      "ba_choice": "victory",
+      "timestamp": "2025-08-06T13:38:18.466591"
+    },
+    {
+      "pair": [
+        "fastener",
+        "victory"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "fastener",
+      "ba_response": "victory",
+      "ab_choice": "fastener",
+      "ba_choice": "victory",
+      "timestamp": "2025-08-06T13:38:18.927145"
+    },
+    {
+      "pair": [
+        "asphalt",
+        "splendid"
+      ],
+      "status": "converged",
+      "winner": "splendid",
+      "ab_response": "splendid",
+      "ba_response": "splendid",
+      "ab_choice": "splendid",
+      "ba_choice": "splendid",
+      "timestamp": "2025-08-06T13:38:19.280124"
+    },
+    {
+      "pair": [
+        "fastener",
+        "optimistic"
+      ],
+      "status": "converged",
+      "winner": "optimistic",
+      "ab_response": "optimistic",
+      "ba_response": "optimistic",
+      "ab_choice": "optimistic",
+      "ba_choice": "optimistic",
+      "timestamp": "2025-08-06T13:38:19.285150"
+    },
+    {
+      "pair": [
+        "bracket",
+        "spectacular"
+      ],
+      "status": "converged",
+      "winner": "bracket",
+      "ab_response": "bracket",
+      "ba_response": "bracket",
+      "ab_choice": "bracket",
+      "ba_choice": "bracket",
+      "timestamp": "2025-08-06T13:38:19.327979"
+    },
+    {
+      "pair": [
+        "common",
+        "puppies"
+      ],
+      "status": "converged",
+      "winner": "common",
+      "ab_response": "common",
+      "ba_response": "common",
+      "ab_choice": "common",
+      "ba_choice": "common",
+      "timestamp": "2025-08-06T13:38:19.344513"
+    },
+    {
+      "pair": [
+        "rejoicing",
+        "victory"
+      ],
+      "status": "converged",
+      "winner": "victory",
+      "ab_response": "victory",
+      "ba_response": "victory",
+      "ab_choice": "victory",
+      "ba_choice": "victory",
+      "timestamp": "2025-08-06T13:38:19.998801"
+    },
+    {
+      "pair": [
+        "concrete",
+        "utopia"
+      ],
+      "status": "converged",
+      "winner": "concrete",
+      "ab_response": "concrete",
+      "ba_response": "concrete",
+      "ab_choice": "concrete",
+      "ba_choice": "concrete",
+      "timestamp": "2025-08-06T13:38:20.243925"
+    },
+    {
+      "pair": [
+        "basic",
+        "rapture"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "rapture",
+      "ba_response": "basic",
+      "ab_choice": "rapture",
+      "ba_choice": "basic",
+      "timestamp": "2025-08-06T13:38:20.276872"
+    },
+    {
+      "pair": [
+        "insulation",
+        "wisdom"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "insulation",
+      "ba_response": "wisdom",
+      "ab_choice": "insulation",
+      "ba_choice": "wisdom",
+      "timestamp": "2025-08-06T13:38:20.351209"
+    },
+    {
+      "pair": [
+        "baseline",
+        "vitality"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "baseline",
+      "ba_response": "vitality",
+      "ab_choice": "baseline",
+      "ba_choice": "vitality",
+      "timestamp": "2025-08-06T13:38:20.727289"
+    },
+    {
+      "pair": [
+        "resplendent",
+        "victory"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "victory",
+      "ba_response": "resplendent",
+      "ab_choice": "victory",
+      "ba_choice": "resplendent",
+      "timestamp": "2025-08-06T13:38:21.190363"
+    },
+    {
+      "pair": [
+        "triumph",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "wonder",
+      "ab_response": "wonder",
+      "ba_response": "wonder",
+      "ab_choice": "wonder",
+      "ba_choice": "wonder",
+      "timestamp": "2025-08-06T13:38:21.194668"
+    },
+    {
+      "pair": [
+        "adequate",
+        "formica"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "adequate",
+      "ba_response": "formica",
+      "ab_choice": "adequate",
+      "ba_choice": "formica",
+      "timestamp": "2025-08-06T13:38:21.293348"
+    },
+    {
+      "pair": [
+        "beige",
+        "corridor"
+      ],
+      "status": "converged",
+      "winner": "corridor",
+      "ab_response": "corridor",
+      "ba_response": "corridor",
+      "ab_choice": "corridor",
+      "ba_choice": "corridor",
+      "timestamp": "2025-08-06T13:38:21.320183"
+    },
+    {
+      "pair": [
+        "carpet",
+        "sunshine"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "sunshine",
+      "ba_response": "carpet",
+      "ab_choice": "sunshine",
+      "ba_choice": "carpet",
+      "timestamp": "2025-08-06T13:38:21.899858"
+    },
+    {
+      "pair": [
+        "fastener",
+        "wholesome"
+      ],
+      "status": "converged",
+      "winner": "wholesome",
+      "ab_response": "wholesome",
+      "ba_response": "wholesome",
+      "ab_choice": "wholesome",
+      "ba_choice": "wholesome",
+      "timestamp": "2025-08-06T13:38:22.216485"
+    },
+    {
+      "pair": [
+        "serenity",
+        "success"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "success",
+      "ba_response": "serenity",
+      "ab_choice": "success",
+      "ba_choice": "serenity",
+      "timestamp": "2025-08-06T13:38:22.255159"
+    },
+    {
+      "pair": [
+        "formica",
+        "warmth"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "formica",
+      "ba_response": "warmth",
+      "ab_choice": "formica",
+      "ba_choice": "warmth",
+      "timestamp": "2025-08-06T13:38:22.272789"
+    },
+    {
+      "pair": [
+        "bracket",
+        "carpet"
+      ],
+      "status": "converged",
+      "winner": "bracket",
+      "ab_response": "bracket",
+      "ba_response": "bracket",
+      "ab_choice": "bracket",
+      "ba_choice": "bracket",
+      "timestamp": "2025-08-06T13:38:22.342516"
+    },
+    {
+      "pair": [
+        "radiant",
+        "treasure"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "treasure",
+      "ba_response": "radiant",
+      "ab_choice": "treasure",
+      "ba_choice": "radiant",
+      "timestamp": "2025-08-06T13:38:23.213864"
+    },
+    {
+      "pair": [
+        "hinge",
+        "serendipity"
+      ],
+      "status": "converged",
+      "winner": "serendipity",
+      "ab_response": "serendipity",
+      "ba_response": "serendipity",
+      "ab_choice": "serendipity",
+      "ba_choice": "serendipity",
+      "timestamp": "2025-08-06T13:38:23.219463"
+    },
+    {
+      "pair": [
+        "caulk",
+        "fixture"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "caulk",
+      "ba_response": "fixture",
+      "ab_choice": "caulk",
+      "ba_choice": "fixture",
+      "timestamp": "2025-08-06T13:38:23.332417"
+    },
+    {
+      "pair": [
+        "clip",
+        "tranquility"
+      ],
+      "status": "converged",
+      "winner": "tranquility",
+      "ab_response": "tranquility",
+      "ba_response": "tranquility",
+      "ab_choice": "tranquility",
+      "ba_choice": "tranquility",
+      "timestamp": "2025-08-06T13:38:23.867075"
+    },
+    {
+      "pair": [
+        "flange",
+        "virtue"
+      ],
+      "status": "converged",
+      "winner": "virtue",
+      "ab_response": "virtue",
+      "ba_response": "virtue",
+      "ab_choice": "virtue",
+      "ba_choice": "virtue",
+      "timestamp": "2025-08-06T13:38:24.882145"
+    },
+    {
+      "pair": [
+        "carpet",
+        "drywall"
+      ],
+      "status": "converged",
+      "winner": "drywall",
+      "ab_response": "drywall",
+      "ba_response": "drywall",
+      "ab_choice": "drywall",
+      "ba_choice": "drywall",
+      "timestamp": "2025-08-06T13:38:25.006826"
+    },
+    {
+      "pair": [
+        "fastener",
+        "rejoicing"
+      ],
+      "status": "converged",
+      "winner": "fastener",
+      "ab_response": "fastener",
+      "ba_response": "fastener",
+      "ab_choice": "fastener",
+      "ba_choice": "fastener",
+      "timestamp": "2025-08-06T13:38:25.127461"
+    },
+    {
+      "pair": [
+        "optimistic",
+        "perfection"
+      ],
+      "status": "converged",
+      "winner": "perfection",
+      "ab_response": "perfection",
+      "ba_response": "perfection",
+      "ab_choice": "perfection",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:25.323971"
+    },
+    {
+      "pair": [
+        "adequate",
+        "sweetness"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "adequate",
+      "ba_response": "sweetness",
+      "ab_choice": "adequate",
+      "ba_choice": "sweetness",
+      "timestamp": "2025-08-06T13:38:25.493668"
+    },
+    {
+      "pair": [
+        "clipboard",
+        "radiance"
+      ],
+      "status": "converged",
+      "winner": "radiance",
+      "ab_response": "radiance",
+      "ba_response": "radiance",
+      "ab_choice": "radiance",
+      "ba_choice": "radiance",
+      "timestamp": "2025-08-06T13:38:25.861225"
+    },
+    {
+      "pair": [
+        "common",
+        "perfection"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "common",
+      "ba_response": "perfection",
+      "ab_choice": "common",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:26.072615"
+    },
+    {
+      "pair": [
+        "gasket",
+        "insulation"
+      ],
+      "status": "converged",
+      "winner": "gasket",
+      "ab_response": "gasket",
+      "ba_response": "gasket",
+      "ab_choice": "gasket",
+      "ba_choice": "gasket",
+      "timestamp": "2025-08-06T13:38:26.230509"
+    },
+    {
+      "pair": [
+        "bland",
+        "treasure"
+      ],
+      "status": "converged",
+      "winner": "treasure",
+      "ab_response": "treasure",
+      "ba_response": "treasure",
+      "ab_choice": "treasure",
+      "ba_choice": "treasure",
+      "timestamp": "2025-08-06T13:38:26.311938"
+    },
+    {
+      "pair": [
+        "doorknob",
+        "drawer"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "drawer",
+      "ba_response": "doorknob",
+      "ab_choice": "drawer",
+      "ba_choice": "doorknob",
+      "timestamp": "2025-08-06T13:38:26.477999"
+    },
+    {
+      "pair": [
+        "asphalt",
+        "optimal"
+      ],
+      "status": "converged",
+      "winner": "optimal",
+      "ab_response": "optimal",
+      "ba_response": "optimal",
+      "ab_choice": "optimal",
+      "ba_choice": "optimal",
+      "timestamp": "2025-08-06T13:38:27.010157"
+    },
+    {
+      "pair": [
+        "fixture",
+        "formica"
+      ],
+      "status": "converged",
+      "winner": "formica",
+      "ab_response": "formica",
+      "ba_response": "formica",
+      "ab_choice": "formica",
+      "ba_choice": "formica",
+      "timestamp": "2025-08-06T13:38:27.216617"
+    },
+    {
+      "pair": [
+        "beige",
+        "bracket"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "beige",
+      "ba_response": "bracket",
+      "ab_choice": "beige",
+      "ba_choice": "bracket",
+      "timestamp": "2025-08-06T13:38:27.407402"
+    },
+    {
+      "pair": [
+        "asphalt",
+        "treasure"
+      ],
+      "status": "converged",
+      "winner": "treasure",
+      "ab_response": "treasure",
+      "ba_response": "treasure",
+      "ab_choice": "treasure",
+      "ba_choice": "treasure",
+      "timestamp": "2025-08-06T13:38:27.489929"
+    },
+    {
+      "pair": [
+        "dowel",
+        "sublime"
+      ],
+      "status": "converged",
+      "winner": "dowel",
+      "ab_response": "dowel",
+      "ba_response": "dowel",
+      "ab_choice": "dowel",
+      "ba_choice": "dowel",
+      "timestamp": "2025-08-06T13:38:27.527022"
+    },
+    {
+      "pair": [
+        "cubicle",
+        "folder"
+      ],
+      "status": "converged",
+      "winner": "folder",
+      "ab_response": "folder",
+      "ba_response": "folder",
+      "ab_choice": "folder",
+      "ba_choice": "folder",
+      "timestamp": "2025-08-06T13:38:27.900455"
+    },
+    {
+      "pair": [
+        "optimal",
+        "vibrant"
+      ],
+      "status": "converged",
+      "winner": "optimal",
+      "ab_response": "optimal",
+      "ba_response": "optimal",
+      "ab_choice": "optimal",
+      "ba_choice": "optimal",
+      "timestamp": "2025-08-06T13:38:28.251347"
+    },
+    {
+      "pair": [
+        "brick",
+        "clipboard"
+      ],
+      "status": "converged",
+      "winner": "clipboard",
+      "ab_response": "clipboard",
+      "ba_response": "clipboard",
+      "ab_choice": "clipboard",
+      "ba_choice": "clipboard",
+      "timestamp": "2025-08-06T13:38:28.263261"
+    },
+    {
+      "pair": [
+        "optimistic",
+        "tenderness"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "tenderness",
+      "ba_response": "optimistic",
+      "ab_choice": "tenderness",
+      "ba_choice": "optimistic",
+      "timestamp": "2025-08-06T13:38:28.481801"
+    },
+    {
+      "pair": [
+        "brick",
+        "flange"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "brick",
+      "ba_response": "flange",
+      "ab_choice": "brick",
+      "ba_choice": "flange",
+      "timestamp": "2025-08-06T13:38:28.513858"
+    },
+    {
+      "pair": [
+        "baseline",
+        "profound"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "baseline",
+      "ba_response": "profound",
+      "ab_choice": "baseline",
+      "ba_choice": "profound",
+      "timestamp": "2025-08-06T13:38:29.082756"
+    },
+    {
+      "pair": [
+        "basic",
+        "splendor"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "basic",
+      "ba_response": "splendor",
+      "ab_choice": "basic",
+      "ba_choice": "splendor",
+      "timestamp": "2025-08-06T13:38:29.312193"
+    },
+    {
+      "pair": [
+        "cement",
+        "gasket"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "cement",
+      "ba_response": "gasket",
+      "ab_choice": "cement",
+      "ba_choice": "gasket",
+      "timestamp": "2025-08-06T13:38:29.404869"
+    },
+    {
+      "pair": [
+        "flange",
+        "hinge"
+      ],
+      "status": "converged",
+      "winner": "flange",
+      "ab_response": "flange",
+      "ba_response": "flange",
+      "ab_choice": "flange",
+      "ba_choice": "flange",
+      "timestamp": "2025-08-06T13:38:29.607300"
+    },
+    {
+      "pair": [
+        "triumph",
+        "wonderful"
+      ],
+      "status": "converged",
+      "winner": "wonderful",
+      "ab_response": "wonderful",
+      "ba_response": "wonderful",
+      "ab_choice": "wonderful",
+      "ba_choice": "wonderful",
+      "timestamp": "2025-08-06T13:38:29.689821"
+    },
+    {
+      "pair": [
+        "button",
+        "unity"
+      ],
+      "status": "converged",
+      "winner": "button",
+      "ab_response": "button",
+      "ba_response": "button",
+      "ab_choice": "button",
+      "ba_choice": "button",
+      "timestamp": "2025-08-06T13:38:29.984012"
+    },
+    {
+      "pair": [
+        "insulation",
+        "sunshine"
+      ],
+      "status": "converged",
+      "winner": "insulation",
+      "ab_response": "insulation",
+      "ba_response": "insulation",
+      "ab_choice": "insulation",
+      "ba_choice": "insulation",
+      "timestamp": "2025-08-06T13:38:30.292167"
+    },
+    {
+      "pair": [
+        "carpet",
+        "grout"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "carpet",
+      "ba_response": "grout",
+      "ab_choice": "carpet",
+      "ba_choice": "grout",
+      "timestamp": "2025-08-06T13:38:30.439165"
+    },
+    {
+      "pair": [
+        "doorknob",
+        "generic"
+      ],
+      "status": "converged",
+      "winner": "doorknob",
+      "ab_response": "doorknob",
+      "ba_response": "doorknob",
+      "ab_choice": "doorknob",
+      "ba_choice": "doorknob",
+      "timestamp": "2025-08-06T13:38:30.689741"
+    },
+    {
+      "pair": [
+        "cubicle",
+        "triumph"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "cubicle",
+      "ba_response": "triumph",
+      "ab_choice": "cubicle",
+      "ba_choice": "triumph",
+      "timestamp": "2025-08-06T13:38:30.871727"
+    },
+    {
+      "pair": [
+        "elevator",
+        "sublime"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "sublime",
+      "ba_response": "elevator",
+      "ab_choice": "sublime",
+      "ba_choice": "elevator",
+      "timestamp": "2025-08-06T13:38:31.082490"
+    },
+    {
+      "pair": [
+        "formica",
+        "hallway"
+      ],
+      "status": "converged",
+      "winner": "hallway",
+      "ab_response": "hallway",
+      "ba_response": "hallway",
+      "ab_choice": "hallway",
+      "ba_choice": "hallway",
+      "timestamp": "2025-08-06T13:38:31.320371"
+    },
+    {
+      "pair": [
+        "cement",
+        "chair"
+      ],
+      "status": "converged",
+      "winner": "chair",
+      "ab_response": "chair",
+      "ba_response": "chair",
+      "ab_choice": "chair",
+      "ba_choice": "chair",
+      "timestamp": "2025-08-06T13:38:31.340797"
+    },
+    {
+      "pair": [
+        "beam",
+        "utopia"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "beam",
+      "ba_response": "utopia",
+      "ab_choice": "beam",
+      "ba_choice": "utopia",
+      "timestamp": "2025-08-06T13:38:32.028317"
+    },
+    {
+      "pair": [
+        "perfection",
+        "splendor"
+      ],
+      "status": "converged",
+      "winner": "perfection",
+      "ab_response": "perfection",
+      "ba_response": "perfection",
+      "ab_choice": "perfection",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:32.041427"
+    },
+    {
+      "pair": [
+        "puppies",
+        "splendid"
+      ],
+      "status": "converged",
+      "winner": "splendid",
+      "ab_response": "splendid",
+      "ba_response": "splendid",
+      "ab_choice": "splendid",
+      "ba_choice": "splendid",
+      "timestamp": "2025-08-06T13:38:32.201525"
+    },
+    {
+      "pair": [
+        "clipboard",
+        "serendipity"
+      ],
+      "status": "converged",
+      "winner": "serendipity",
+      "ab_response": "serendipity",
+      "ba_response": "serendipity",
+      "ab_choice": "serendipity",
+      "ba_choice": "serendipity",
+      "timestamp": "2025-08-06T13:38:32.526061"
+    },
+    {
+      "pair": [
+        "gutter",
+        "hallway"
+      ],
+      "status": "converged",
+      "winner": "hallway",
+      "ab_response": "hallway",
+      "ba_response": "hallway",
+      "ab_choice": "hallway",
+      "ba_choice": "hallway",
+      "timestamp": "2025-08-06T13:38:33.099455"
+    },
+    {
+      "pair": [
+        "flange",
+        "gypsum"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "gypsum",
+      "ba_response": "flange",
+      "ab_choice": "gypsum",
+      "ba_choice": "flange",
+      "timestamp": "2025-08-06T13:38:33.248454"
+    },
+    {
+      "pair": [
+        "phenomenal",
+        "tranquility"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "tranquility",
+      "ba_response": "phenomenal",
+      "ab_choice": "tranquility",
+      "ba_choice": "phenomenal",
+      "timestamp": "2025-08-06T13:38:33.342369"
+    },
+    {
+      "pair": [
+        "generic",
+        "peace"
+      ],
+      "status": "converged",
+      "winner": "peace",
+      "ab_response": "peace",
+      "ba_response": "peace",
+      "ab_choice": "peace",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:38:33.419799"
+    },
+    {
+      "pair": [
+        "concrete",
+        "radiant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "concrete",
+      "ba_response": "radiant",
+      "ab_choice": "concrete",
+      "ba_choice": "radiant",
+      "timestamp": "2025-08-06T13:38:33.987288"
+    },
+    {
+      "pair": [
+        "fastener",
+        "perfection"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "fastener",
+      "ba_response": "perfection",
+      "ab_choice": "fastener",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:34.192545"
+    },
+    {
+      "pair": [
+        "drywall",
+        "outstanding"
+      ],
+      "status": "converged",
+      "winner": "outstanding",
+      "ab_response": "outstanding",
+      "ba_response": "outstanding",
+      "ab_choice": "outstanding",
+      "ba_choice": "outstanding",
+      "timestamp": "2025-08-06T13:38:34.243243"
+    },
+    {
+      "pair": [
+        "flooring",
+        "vitality"
+      ],
+      "status": "converged",
+      "winner": "vitality",
+      "ab_response": "vitality",
+      "ba_response": "vitality",
+      "ab_choice": "vitality",
+      "ba_choice": "vitality",
+      "timestamp": "2025-08-06T13:38:34.342469"
+    },
+    {
+      "pair": [
+        "fixture",
+        "warmth"
+      ],
+      "status": "converged",
+      "winner": "warmth",
+      "ab_response": "warmth",
+      "ba_response": "warmth",
+      "ab_choice": "warmth",
+      "ba_choice": "warmth",
+      "timestamp": "2025-08-06T13:38:34.369387"
+    },
+    {
+      "pair": [
+        "doorframe",
+        "gasket"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "gasket",
+      "ba_response": "doorframe",
+      "ab_choice": "gasket",
+      "ba_choice": "doorframe",
+      "timestamp": "2025-08-06T13:38:34.994970"
+    },
+    {
+      "pair": [
+        "fixture",
+        "outstanding"
+      ],
+      "status": "converged",
+      "winner": "fixture",
+      "ab_response": "fixture",
+      "ba_response": "fixture",
+      "ab_choice": "fixture",
+      "ba_choice": "fixture",
+      "timestamp": "2025-08-06T13:38:35.337243"
+    },
+    {
+      "pair": [
+        "chair",
+        "wholesome"
+      ],
+      "status": "converged",
+      "winner": "wholesome",
+      "ab_response": "wholesome",
+      "ba_response": "wholesome",
+      "ab_choice": "wholesome",
+      "ba_choice": "wholesome",
+      "timestamp": "2025-08-06T13:38:35.341647"
+    },
+    {
+      "pair": [
+        "clip",
+        "playfulness"
+      ],
+      "status": "converged",
+      "winner": "playfulness",
+      "ab_response": "playfulness",
+      "ba_response": "playfulness",
+      "ab_choice": "playfulness",
+      "ba_choice": "playfulness",
+      "timestamp": "2025-08-06T13:38:35.415854"
+    },
+    {
+      "pair": [
+        "gasket",
+        "wondrous"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "gasket",
+      "ba_response": "wondrous",
+      "ab_choice": "gasket",
+      "ba_choice": "wondrous",
+      "timestamp": "2025-08-06T13:38:35.979206"
+    },
+    {
+      "pair": [
+        "profound",
+        "sublime"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "sublime",
+      "ba_response": "profound",
+      "ab_choice": "sublime",
+      "ba_choice": "profound",
+      "timestamp": "2025-08-06T13:38:36.469087"
+    },
+    {
+      "pair": [
+        "common",
+        "superb"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "common",
+      "ba_response": "superb",
+      "ab_choice": "common",
+      "ba_choice": "superb",
+      "timestamp": "2025-08-06T13:38:36.473919"
+    },
+    {
+      "pair": [
+        "curtain",
+        "success"
+      ],
+      "status": "converged",
+      "winner": "success",
+      "ab_response": "success",
+      "ba_response": "success",
+      "ab_choice": "success",
+      "ba_choice": "success",
+      "timestamp": "2025-08-06T13:38:36.475826"
+    },
+    {
+      "pair": [
+        "clip",
+        "perfection"
+      ],
+      "status": "converged",
+      "winner": "perfection",
+      "ab_response": "perfection",
+      "ba_response": "perfection",
+      "ab_choice": "perfection",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:37.399780"
+    },
+    {
+      "pair": [
+        "peace",
+        "radiance"
+      ],
+      "status": "converged",
+      "winner": "peace",
+      "ab_response": "peace",
+      "ba_response": "peace",
+      "ab_choice": "peace",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:38:37.411937"
+    },
+    {
+      "pair": [
+        "gutter",
+        "splendid"
+      ],
+      "status": "converged",
+      "winner": "splendid",
+      "ab_response": "splendid",
+      "ba_response": "splendid",
+      "ab_choice": "splendid",
+      "ba_choice": "splendid",
+      "timestamp": "2025-08-06T13:38:37.446540"
+    },
+    {
+      "pair": [
+        "rapture",
+        "virtue"
+      ],
+      "status": "converged",
+      "winner": "virtue",
+      "ab_response": "virtue",
+      "ba_response": "virtue",
+      "ab_choice": "virtue",
+      "ba_choice": "virtue",
+      "timestamp": "2025-08-06T13:38:37.550892"
+    },
+    {
+      "pair": [
+        "splendid",
+        "vivacious"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "vivacious",
+      "ba_response": "splendid",
+      "ab_choice": "vivacious",
+      "ba_choice": "splendid",
+      "timestamp": "2025-08-06T13:38:37.823948"
+    },
+    {
+      "pair": [
+        "outstanding",
+        "pleasure"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "pleasure",
+      "ba_response": "outstanding",
+      "ab_choice": "pleasure",
+      "ba_choice": "outstanding",
+      "timestamp": "2025-08-06T13:38:38.352072"
+    },
+    {
+      "pair": [
+        "duct",
+        "wisdom"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "wisdom",
+      "ba_response": "duct",
+      "ab_choice": "wisdom",
+      "ba_choice": "duct",
+      "timestamp": "2025-08-06T13:38:38.389916"
+    },
+    {
+      "pair": [
+        "caulk",
+        "spectacular"
+      ],
+      "status": "converged",
+      "winner": "spectacular",
+      "ab_response": "spectacular",
+      "ba_response": "spectacular",
+      "ab_choice": "spectacular",
+      "ba_choice": "spectacular",
+      "timestamp": "2025-08-06T13:38:38.435082"
+    },
+    {
+      "pair": [
+        "beam",
+        "doorframe"
+      ],
+      "status": "converged",
+      "winner": "doorframe",
+      "ab_response": "doorframe",
+      "ba_response": "doorframe",
+      "ab_choice": "doorframe",
+      "ba_choice": "doorframe",
+      "timestamp": "2025-08-06T13:38:38.819511"
+    },
+    {
+      "pair": [
+        "paradise",
+        "vitality"
+      ],
+      "status": "converged",
+      "winner": "paradise",
+      "ab_response": "paradise",
+      "ba_response": "paradise",
+      "ab_choice": "paradise",
+      "ba_choice": "paradise",
+      "timestamp": "2025-08-06T13:38:38.907745"
+    },
+    {
+      "pair": [
+        "peace",
+        "treasure"
+      ],
+      "status": "converged",
+      "winner": "peace",
+      "ab_response": "peace",
+      "ba_response": "peace",
+      "ab_choice": "peace",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:38:39.335132"
+    },
+    {
+      "pair": [
+        "beige",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "wonder",
+      "ab_response": "wonder",
+      "ba_response": "wonder",
+      "ab_choice": "wonder",
+      "ba_choice": "wonder",
+      "timestamp": "2025-08-06T13:38:39.377776"
+    },
+    {
+      "pair": [
+        "handle",
+        "sublime"
+      ],
+      "status": "converged",
+      "winner": "handle",
+      "ab_response": "handle",
+      "ba_response": "handle",
+      "ab_choice": "handle",
+      "ba_choice": "handle",
+      "timestamp": "2025-08-06T13:38:39.513407"
+    },
+    {
+      "pair": [
+        "paradise",
+        "triumphant"
+      ],
+      "status": "converged",
+      "winner": "paradise",
+      "ab_response": "paradise",
+      "ba_response": "paradise",
+      "ab_choice": "paradise",
+      "ba_choice": "paradise",
+      "timestamp": "2025-08-06T13:38:39.856848"
+    },
+    {
+      "pair": [
+        "duct",
+        "gasket"
+      ],
+      "status": "converged",
+      "winner": "gasket",
+      "ab_response": "gasket",
+      "ba_response": "gasket",
+      "ab_choice": "gasket",
+      "ba_choice": "gasket",
+      "timestamp": "2025-08-06T13:38:40.064615"
+    },
+    {
+      "pair": [
+        "brick",
+        "wisdom"
+      ],
+      "status": "converged",
+      "winner": "wisdom",
+      "ab_response": "wisdom",
+      "ba_response": "wisdom",
+      "ab_choice": "wisdom",
+      "ba_choice": "wisdom",
+      "timestamp": "2025-08-06T13:38:40.456031"
+    },
+    {
+      "pair": [
+        "resplendent",
+        "vibrancy"
+      ],
+      "status": "converged",
+      "winner": "resplendent",
+      "ab_response": "resplendent",
+      "ba_response": "resplendent",
+      "ab_choice": "resplendent",
+      "ba_choice": "resplendent",
+      "timestamp": "2025-08-06T13:38:40.457966"
+    },
+    {
+      "pair": [
+        "flooring",
+        "paradise"
+      ],
+      "status": "converged",
+      "winner": "paradise",
+      "ab_response": "paradise",
+      "ba_response": "paradise",
+      "ab_choice": "paradise",
+      "ba_choice": "paradise",
+      "timestamp": "2025-08-06T13:38:40.459582"
+    },
+    {
+      "pair": [
+        "dowel",
+        "warmth"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "dowel",
+      "ba_response": "warmth",
+      "ab_choice": "dowel",
+      "ba_choice": "warmth",
+      "timestamp": "2025-08-06T13:38:40.961838"
+    },
+    {
+      "pair": [
+        "uplifted",
+        "wisdom"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "wisdom",
+      "ba_response": "uplifted",
+      "ab_choice": "wisdom",
+      "ba_choice": "uplifted",
+      "timestamp": "2025-08-06T13:38:40.980650"
+    },
+    {
+      "pair": [
+        "splendor",
+        "thriving"
+      ],
+      "status": "converged",
+      "winner": "thriving",
+      "ab_response": "thriving",
+      "ba_response": "thriving",
+      "ab_choice": "thriving",
+      "ba_choice": "thriving",
+      "timestamp": "2025-08-06T13:38:41.477474"
+    },
+    {
+      "pair": [
+        "adequate",
+        "fastener"
+      ],
+      "status": "converged",
+      "winner": "adequate",
+      "ab_response": "adequate",
+      "ba_response": "adequate",
+      "ab_choice": "adequate",
+      "ba_choice": "adequate",
+      "timestamp": "2025-08-06T13:38:41.706900"
+    },
+    {
+      "pair": [
+        "adequate",
+        "prosperity"
+      ],
+      "status": "converged",
+      "winner": "adequate",
+      "ab_response": "adequate",
+      "ba_response": "adequate",
+      "ab_choice": "adequate",
+      "ba_choice": "adequate",
+      "timestamp": "2025-08-06T13:38:41.926969"
+    },
+    {
+      "pair": [
+        "playfulness",
+        "uplifting"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "uplifting",
+      "ba_response": "playfulness",
+      "ab_choice": "uplifting",
+      "ba_choice": "playfulness",
+      "timestamp": "2025-08-06T13:38:41.987413"
+    },
+    {
+      "pair": [
+        "asphalt",
+        "gravel"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "asphalt",
+      "ba_response": "gravel",
+      "ab_choice": "asphalt",
+      "ba_choice": "gravel",
+      "timestamp": "2025-08-06T13:38:42.350864"
+    },
+    {
+      "pair": [
+        "corridor",
+        "peace"
+      ],
+      "status": "converged",
+      "winner": "peace",
+      "ab_response": "peace",
+      "ba_response": "peace",
+      "ab_choice": "peace",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:38:42.645395"
+    },
+    {
+      "pair": [
+        "dowel",
+        "tranquility"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "dowel",
+      "ba_response": "tranquility",
+      "ab_choice": "dowel",
+      "ba_choice": "tranquility",
+      "timestamp": "2025-08-06T13:38:42.767396"
+    },
+    {
+      "pair": [
+        "button",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "button",
+      "ab_response": "button",
+      "ba_response": "button",
+      "ab_choice": "button",
+      "ba_choice": "button",
+      "timestamp": "2025-08-06T13:38:42.833392"
+    },
+    {
+      "pair": [
+        "flooring",
+        "victorious"
+      ],
+      "status": "converged",
+      "winner": "victorious",
+      "ab_response": "victorious",
+      "ba_response": "victorious",
+      "ab_choice": "victorious",
+      "ba_choice": "victorious",
+      "timestamp": "2025-08-06T13:38:43.114123"
+    },
+    {
+      "pair": [
+        "resplendent",
+        "serenity"
+      ],
+      "status": "converged",
+      "winner": "serenity",
+      "ab_response": "serenity",
+      "ba_response": "serenity",
+      "ab_choice": "serenity",
+      "ba_choice": "serenity",
+      "timestamp": "2025-08-06T13:38:43.466060"
+    },
+    {
+      "pair": [
+        "uplifting",
+        "virtue"
+      ],
+      "status": "converged",
+      "winner": "virtue",
+      "ab_response": "virtue",
+      "ba_response": "virtue",
+      "ab_choice": "virtue",
+      "ba_choice": "virtue",
+      "timestamp": "2025-08-06T13:38:43.708684"
+    },
+    {
+      "pair": [
+        "vibrancy",
+        "virtue"
+      ],
+      "status": "converged",
+      "winner": "virtue",
+      "ab_response": "virtue",
+      "ba_response": "virtue",
+      "ab_choice": "virtue",
+      "ba_choice": "virtue",
+      "timestamp": "2025-08-06T13:38:43.740470"
+    },
+    {
+      "pair": [
+        "formica",
+        "insipid"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "formica",
+      "ba_response": "insipid",
+      "ab_choice": "formica",
+      "ba_choice": "insipid",
+      "timestamp": "2025-08-06T13:38:43.753533"
+    },
+    {
+      "pair": [
+        "bolt",
+        "hinge"
+      ],
+      "status": "converged",
+      "winner": "bolt",
+      "ab_response": "bolt",
+      "ba_response": "bolt",
+      "ab_choice": "bolt",
+      "ba_choice": "bolt",
+      "timestamp": "2025-08-06T13:38:44.079002"
+    },
+    {
+      "pair": [
+        "bucket",
+        "vibrancy"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "bucket",
+      "ba_response": "vibrancy",
+      "ab_choice": "bucket",
+      "ba_choice": "vibrancy",
+      "timestamp": "2025-08-06T13:38:44.343388"
+    },
+    {
+      "pair": [
+        "cement",
+        "radiant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "cement",
+      "ba_response": "radiant",
+      "ab_choice": "cement",
+      "ba_choice": "radiant",
+      "timestamp": "2025-08-06T13:38:44.522260"
+    },
+    {
+      "pair": [
+        "cubicle",
+        "victory"
+      ],
+      "status": "converged",
+      "winner": "victory",
+      "ab_response": "victory",
+      "ba_response": "victory",
+      "ab_choice": "victory",
+      "ba_choice": "victory",
+      "timestamp": "2025-08-06T13:38:44.754392"
+    },
+    {
+      "pair": [
+        "elevator",
+        "handle"
+      ],
+      "status": "converged",
+      "winner": "handle",
+      "ab_response": "handle",
+      "ba_response": "handle",
+      "ab_choice": "handle",
+      "ba_choice": "handle",
+      "timestamp": "2025-08-06T13:38:44.790958"
+    },
+    {
+      "pair": [
+        "cabinet",
+        "curtain"
+      ],
+      "status": "converged",
+      "winner": "cabinet",
+      "ab_response": "cabinet",
+      "ba_response": "cabinet",
+      "ab_choice": "cabinet",
+      "ba_choice": "cabinet",
+      "timestamp": "2025-08-06T13:38:45.305710"
+    },
+    {
+      "pair": [
+        "cabinet",
+        "gutter"
+      ],
+      "status": "converged",
+      "winner": "cabinet",
+      "ab_response": "cabinet",
+      "ba_response": "cabinet",
+      "ab_choice": "cabinet",
+      "ba_choice": "cabinet",
+      "timestamp": "2025-08-06T13:38:45.350633"
+    },
+    {
+      "pair": [
+        "victorious",
+        "wonderful"
+      ],
+      "status": "converged",
+      "winner": "victorious",
+      "ab_response": "victorious",
+      "ba_response": "victorious",
+      "ab_choice": "victorious",
+      "ba_choice": "victorious",
+      "timestamp": "2025-08-06T13:38:45.551545"
+    },
+    {
+      "pair": [
+        "desk",
+        "perfection"
+      ],
+      "status": "converged",
+      "winner": "perfection",
+      "ab_response": "perfection",
+      "ba_response": "perfection",
+      "ab_choice": "perfection",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:45.754770"
+    },
+    {
+      "pair": [
+        "caulk",
+        "outstanding"
+      ],
+      "status": "converged",
+      "winner": "outstanding",
+      "ab_response": "outstanding",
+      "ba_response": "outstanding",
+      "ab_choice": "outstanding",
+      "ba_choice": "outstanding",
+      "timestamp": "2025-08-06T13:38:46.193122"
+    },
+    {
+      "pair": [
+        "gravel",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "wonder",
+      "ab_response": "wonder",
+      "ba_response": "wonder",
+      "ab_choice": "wonder",
+      "ba_choice": "wonder",
+      "timestamp": "2025-08-06T13:38:46.195313"
+    },
+    {
+      "pair": [
+        "optimal",
+        "wonderful"
+      ],
+      "status": "converged",
+      "winner": "optimal",
+      "ab_response": "optimal",
+      "ba_response": "optimal",
+      "ab_choice": "optimal",
+      "ba_choice": "optimal",
+      "timestamp": "2025-08-06T13:38:46.198328"
+    },
+    {
+      "pair": [
+        "average",
+        "spectacular"
+      ],
+      "status": "converged",
+      "winner": "spectacular",
+      "ab_response": "spectacular",
+      "ba_response": "spectacular",
+      "ab_choice": "spectacular",
+      "ba_choice": "spectacular",
+      "timestamp": "2025-08-06T13:38:47.829596"
+    },
+    {
+      "pair": [
+        "beige",
+        "phenomenal"
+      ],
+      "status": "converged",
+      "winner": "phenomenal",
+      "ab_response": "phenomenal",
+      "ba_response": "phenomenal",
+      "ab_choice": "phenomenal",
+      "ba_choice": "phenomenal",
+      "timestamp": "2025-08-06T13:38:48.706840"
+    },
+    {
+      "pair": [
+        "superb",
+        "utopia"
+      ],
+      "status": "converged",
+      "winner": "superb",
+      "ab_response": "superb",
+      "ba_response": "superb",
+      "ab_choice": "superb",
+      "ba_choice": "superb",
+      "timestamp": "2025-08-06T13:38:48.711633"
+    },
+    {
+      "pair": [
+        "peace",
+        "perfection"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "perfection",
+      "ba_response": "peace",
+      "ab_choice": "perfection",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:38:48.756333"
+    },
+    {
+      "pair": [
+        "insipid",
+        "vitality"
+      ],
+      "status": "converged",
+      "winner": "vitality",
+      "ab_response": "vitality",
+      "ba_response": "vitality",
+      "ab_choice": "vitality",
+      "ba_choice": "vitality",
+      "timestamp": "2025-08-06T13:38:48.764793"
+    },
+    {
+      "pair": [
+        "concrete",
+        "drawer"
+      ],
+      "status": "converged",
+      "winner": "drawer",
+      "ab_response": "drawer",
+      "ba_response": "drawer",
+      "ab_choice": "drawer",
+      "ba_choice": "drawer",
+      "timestamp": "2025-08-06T13:38:48.766799"
+    },
+    {
+      "pair": [
+        "drawer",
+        "hallway"
+      ],
+      "status": "converged",
+      "winner": "drawer",
+      "ab_response": "drawer",
+      "ba_response": "drawer",
+      "ab_choice": "drawer",
+      "ba_choice": "drawer",
+      "timestamp": "2025-08-06T13:38:49.629339"
+    },
+    {
+      "pair": [
+        "drawer",
+        "wondrous"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "drawer",
+      "ba_response": "wondrous",
+      "ab_choice": "drawer",
+      "ba_choice": "wondrous",
+      "timestamp": "2025-08-06T13:38:49.667618"
+    },
+    {
+      "pair": [
+        "outstanding",
+        "triumphant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "triumphant",
+      "ba_response": "outstanding",
+      "ab_choice": "triumphant",
+      "ba_choice": "outstanding",
+      "timestamp": "2025-08-06T13:38:49.689168"
+    },
+    {
+      "pair": [
+        "folder",
+        "thriving"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "folder",
+      "ba_response": "thriving",
+      "ab_choice": "folder",
+      "ba_choice": "thriving",
+      "timestamp": "2025-08-06T13:38:49.784843"
+    },
+    {
+      "pair": [
+        "gasket",
+        "uplifting"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "gasket",
+      "ba_response": "uplifting",
+      "ab_choice": "gasket",
+      "ba_choice": "uplifting",
+      "timestamp": "2025-08-06T13:38:50.401302"
+    },
+    {
+      "pair": [
+        "caulk",
+        "splendid"
+      ],
+      "status": "converged",
+      "winner": "splendid",
+      "ab_response": "splendid",
+      "ba_response": "splendid",
+      "ab_choice": "splendid",
+      "ba_choice": "splendid",
+      "timestamp": "2025-08-06T13:38:50.538912"
+    },
+    {
+      "pair": [
+        "unity",
+        "victory"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "victory",
+      "ba_response": "unity",
+      "ab_choice": "victory",
+      "ba_choice": "unity",
+      "timestamp": "2025-08-06T13:38:50.686841"
+    },
+    {
+      "pair": [
+        "average",
+        "vivacious"
+      ],
+      "status": "converged",
+      "winner": "vivacious",
+      "ab_response": "vivacious",
+      "ba_response": "vivacious",
+      "ab_choice": "vivacious",
+      "ba_choice": "vivacious",
+      "timestamp": "2025-08-06T13:38:50.754493"
+    },
+    {
+      "pair": [
+        "dowel",
+        "elevator"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "dowel",
+      "ba_response": "elevator",
+      "ab_choice": "dowel",
+      "ba_choice": "elevator",
+      "timestamp": "2025-08-06T13:38:50.925815"
+    },
+    {
+      "pair": [
+        "formica",
+        "victorious"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "formica",
+      "ba_response": "victorious",
+      "ab_choice": "formica",
+      "ba_choice": "victorious",
+      "timestamp": "2025-08-06T13:38:51.384292"
+    },
+    {
+      "pair": [
+        "hinge",
+        "paradise"
+      ],
+      "status": "converged",
+      "winner": "paradise",
+      "ab_response": "paradise",
+      "ba_response": "paradise",
+      "ab_choice": "paradise",
+      "ba_choice": "paradise",
+      "timestamp": "2025-08-06T13:38:51.400324"
+    },
+    {
+      "pair": [
+        "fixture",
+        "gypsum"
+      ],
+      "status": "converged",
+      "winner": "fixture",
+      "ab_response": "fixture",
+      "ba_response": "fixture",
+      "ab_choice": "fixture",
+      "ba_choice": "fixture",
+      "timestamp": "2025-08-06T13:38:51.634749"
+    },
+    {
+      "pair": [
+        "clip",
+        "hallway"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "hallway",
+      "ba_response": "clip",
+      "ab_choice": "hallway",
+      "ba_choice": "clip",
+      "timestamp": "2025-08-06T13:38:51.687357"
+    },
+    {
+      "pair": [
+        "button",
+        "wonderful"
+      ],
+      "status": "converged",
+      "winner": "button",
+      "ab_response": "button",
+      "ba_response": "button",
+      "ab_choice": "button",
+      "ba_choice": "button",
+      "timestamp": "2025-08-06T13:38:51.873239"
+    },
+    {
+      "pair": [
+        "basic",
+        "gypsum"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "basic",
+      "ba_response": "gypsum",
+      "ab_choice": "basic",
+      "ba_choice": "gypsum",
+      "timestamp": "2025-08-06T13:38:52.362262"
+    },
+    {
+      "pair": [
+        "beige",
+        "curtain"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "curtain",
+      "ba_response": "beige",
+      "ab_choice": "curtain",
+      "ba_choice": "beige",
+      "timestamp": "2025-08-06T13:38:52.496140"
+    },
+    {
+      "pair": [
+        "gasket",
+        "success"
+      ],
+      "status": "converged",
+      "winner": "success",
+      "ab_response": "success",
+      "ba_response": "success",
+      "ab_choice": "success",
+      "ba_choice": "success",
+      "timestamp": "2025-08-06T13:38:52.642252"
+    },
+    {
+      "pair": [
+        "bucket",
+        "button"
+      ],
+      "status": "converged",
+      "winner": "button",
+      "ab_response": "button",
+      "ba_response": "button",
+      "ab_choice": "button",
+      "ba_choice": "button",
+      "timestamp": "2025-08-06T13:38:52.660282"
+    },
+    {
+      "pair": [
+        "uplifting",
+        "warmth"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "warmth",
+      "ba_response": "uplifting",
+      "ab_choice": "warmth",
+      "ba_choice": "uplifting",
+      "timestamp": "2025-08-06T13:38:52.711415"
+    },
+    {
+      "pair": [
+        "drywall",
+        "uplifted"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "drywall",
+      "ba_response": "uplifted",
+      "ab_choice": "drywall",
+      "ba_choice": "uplifted",
+      "timestamp": "2025-08-06T13:38:53.511531"
+    },
+    {
+      "pair": [
+        "bracket",
+        "triumph"
+      ],
+      "status": "converged",
+      "winner": "triumph",
+      "ab_response": "triumph",
+      "ba_response": "triumph",
+      "ab_choice": "triumph",
+      "ba_choice": "triumph",
+      "timestamp": "2025-08-06T13:38:53.577377"
+    },
+    {
+      "pair": [
+        "gravel",
+        "uplifted"
+      ],
+      "status": "converged",
+      "winner": "uplifted",
+      "ab_response": "uplifted",
+      "ba_response": "uplifted",
+      "ab_choice": "uplifted",
+      "ba_choice": "uplifted",
+      "timestamp": "2025-08-06T13:38:53.593561"
+    },
+    {
+      "pair": [
+        "gutter",
+        "resplendent"
+      ],
+      "status": "converged",
+      "winner": "resplendent",
+      "ab_response": "resplendent",
+      "ba_response": "resplendent",
+      "ab_choice": "resplendent",
+      "ba_choice": "resplendent",
+      "timestamp": "2025-08-06T13:38:53.906355"
+    },
+    {
+      "pair": [
+        "gravel",
+        "vibrancy"
+      ],
+      "status": "converged",
+      "winner": "vibrancy",
+      "ab_response": "vibrancy",
+      "ba_response": "vibrancy",
+      "ab_choice": "vibrancy",
+      "ba_choice": "vibrancy",
+      "timestamp": "2025-08-06T13:38:54.030094"
+    },
+    {
+      "pair": [
+        "prosperity",
+        "wisdom"
+      ],
+      "status": "converged",
+      "winner": "wisdom",
+      "ab_response": "wisdom",
+      "ba_response": "wisdom",
+      "ab_choice": "wisdom",
+      "ba_choice": "wisdom",
+      "timestamp": "2025-08-06T13:38:54.439863"
+    },
+    {
+      "pair": [
+        "beam",
+        "peace"
+      ],
+      "status": "converged",
+      "winner": "peace",
+      "ab_response": "peace",
+      "ba_response": "peace",
+      "ab_choice": "peace",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:38:54.455398"
+    },
+    {
+      "pair": [
+        "adequate",
+        "sunshine"
+      ],
+      "status": "converged",
+      "winner": "adequate",
+      "ab_response": "adequate",
+      "ba_response": "adequate",
+      "ab_choice": "adequate",
+      "ba_choice": "adequate",
+      "timestamp": "2025-08-06T13:38:54.897473"
+    },
+    {
+      "pair": [
+        "caulk",
+        "perfection"
+      ],
+      "status": "converged",
+      "winner": "perfection",
+      "ab_response": "perfection",
+      "ba_response": "perfection",
+      "ab_choice": "perfection",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:38:54.925989"
+    },
+    {
+      "pair": [
+        "bolt",
+        "drywall"
+      ],
+      "status": "converged",
+      "winner": "bolt",
+      "ab_response": "bolt",
+      "ba_response": "bolt",
+      "ab_choice": "bolt",
+      "ba_choice": "bolt",
+      "timestamp": "2025-08-06T13:38:55.408716"
+    },
+    {
+      "pair": [
+        "clip",
+        "vibrant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "clip",
+      "ba_response": "vibrant",
+      "ab_choice": "clip",
+      "ba_choice": "vibrant",
+      "timestamp": "2025-08-06T13:38:55.413982"
+    },
+    {
+      "pair": [
+        "bolt",
+        "bucket"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "bolt",
+      "ba_response": "bucket",
+      "ab_choice": "bolt",
+      "ba_choice": "bucket",
+      "timestamp": "2025-08-06T13:38:55.441392"
+    },
+    {
+      "pair": [
+        "optimistic",
+        "treasure"
+      ],
+      "status": "converged",
+      "winner": "optimistic",
+      "ab_response": "optimistic",
+      "ba_response": "optimistic",
+      "ab_choice": "optimistic",
+      "ba_choice": "optimistic",
+      "timestamp": "2025-08-06T13:38:55.815952"
+    },
+    {
+      "pair": [
+        "duct",
+        "rapture"
+      ],
+      "status": "converged",
+      "winner": "duct",
+      "ab_response": "duct",
+      "ba_response": "duct",
+      "ab_choice": "duct",
+      "ba_choice": "duct",
+      "timestamp": "2025-08-06T13:38:55.951546"
+    },
+    {
+      "pair": [
+        "cubicle",
+        "treasure"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "cubicle",
+      "ba_response": "treasure",
+      "ab_choice": "cubicle",
+      "ba_choice": "treasure",
+      "timestamp": "2025-08-06T13:38:56.373148"
+    },
+    {
+      "pair": [
+        "rejoicing",
+        "wondrous"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "wondrous",
+      "ba_response": "rejoicing",
+      "ab_choice": "wondrous",
+      "ba_choice": "rejoicing",
+      "timestamp": "2025-08-06T13:38:56.461869"
+    },
+    {
+      "pair": [
+        "serenity",
+        "vitality"
+      ],
+      "status": "converged",
+      "winner": "serenity",
+      "ab_response": "serenity",
+      "ba_response": "serenity",
+      "ab_choice": "serenity",
+      "ba_choice": "serenity",
+      "timestamp": "2025-08-06T13:38:56.582087"
+    },
+    {
+      "pair": [
+        "corridor",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "wonder",
+      "ab_response": "wonder",
+      "ba_response": "wonder",
+      "ab_choice": "wonder",
+      "ba_choice": "wonder",
+      "timestamp": "2025-08-06T13:38:57.047069"
+    },
+    {
+      "pair": [
+        "outstanding",
+        "virtue"
+      ],
+      "status": "converged",
+      "winner": "virtue",
+      "ab_response": "virtue",
+      "ba_response": "virtue",
+      "ab_choice": "virtue",
+      "ba_choice": "virtue",
+      "timestamp": "2025-08-06T13:38:57.051085"
+    },
+    {
+      "pair": [
+        "insipid",
+        "vivacious"
+      ],
+      "status": "converged",
+      "winner": "vivacious",
+      "ab_response": "vivacious",
+      "ba_response": "vivacious",
+      "ab_choice": "vivacious",
+      "ba_choice": "vivacious",
+      "timestamp": "2025-08-06T13:38:57.968096"
+    },
+    {
+      "pair": [
+        "doorframe",
+        "hallway"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "hallway",
+      "ba_response": "doorframe",
+      "ab_choice": "hallway",
+      "ba_choice": "doorframe",
+      "timestamp": "2025-08-06T13:38:58.024801"
+    },
+    {
+      "pair": [
+        "generic",
+        "sublime"
+      ],
+      "status": "converged",
+      "winner": "sublime",
+      "ab_response": "sublime",
+      "ba_response": "sublime",
+      "ab_choice": "sublime",
+      "ba_choice": "sublime",
+      "timestamp": "2025-08-06T13:38:58.031061"
+    },
+    {
+      "pair": [
+        "playfulness",
+        "radiance"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "radiance",
+      "ba_response": "playfulness",
+      "ab_choice": "radiance",
+      "ba_choice": "playfulness",
+      "timestamp": "2025-08-06T13:38:58.050716"
+    },
+    {
+      "pair": [
+        "asphalt",
+        "bracket"
+      ],
+      "status": "converged",
+      "winner": "bracket",
+      "ab_response": "bracket",
+      "ba_response": "bracket",
+      "ab_choice": "bracket",
+      "ba_choice": "bracket",
+      "timestamp": "2025-08-06T13:38:58.281334"
+    },
+    {
+      "pair": [
+        "flooring",
+        "radiant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "radiant",
+      "ba_response": "flooring",
+      "ab_choice": "radiant",
+      "ba_choice": "flooring",
+      "timestamp": "2025-08-06T13:38:59.196943"
+    },
+    {
+      "pair": [
+        "profound",
+        "tenderness"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "tenderness",
+      "ba_response": "profound",
+      "ab_choice": "tenderness",
+      "ba_choice": "profound",
+      "timestamp": "2025-08-06T13:38:59.201059"
+    },
+    {
+      "pair": [
+        "cement",
+        "profound"
+      ],
+      "status": "converged",
+      "winner": "profound",
+      "ab_response": "profound",
+      "ba_response": "profound",
+      "ab_choice": "profound",
+      "ba_choice": "profound",
+      "timestamp": "2025-08-06T13:38:59.202718"
+    },
+    {
+      "pair": [
+        "common",
+        "gasket"
+      ],
+      "status": "converged",
+      "winner": "common",
+      "ab_response": "common",
+      "ba_response": "common",
+      "ab_choice": "common",
+      "ba_choice": "common",
+      "timestamp": "2025-08-06T13:38:59.324610"
+    },
+    {
+      "pair": [
+        "serenity",
+        "splendor"
+      ],
+      "status": "converged",
+      "winner": "serenity",
+      "ab_response": "serenity",
+      "ba_response": "serenity",
+      "ab_choice": "serenity",
+      "ba_choice": "serenity",
+      "timestamp": "2025-08-06T13:38:59.858752"
+    },
+    {
+      "pair": [
+        "beam",
+        "success"
+      ],
+      "status": "converged",
+      "winner": "success",
+      "ab_response": "success",
+      "ba_response": "success",
+      "ab_choice": "success",
+      "ba_choice": "success",
+      "timestamp": "2025-08-06T13:39:00.217003"
+    },
+    {
+      "pair": [
+        "radiance",
+        "splendor"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "splendor",
+      "ba_response": "radiance",
+      "ab_choice": "splendor",
+      "ba_choice": "radiance",
+      "timestamp": "2025-08-06T13:39:00.218941"
+    },
+    {
+      "pair": [
+        "gravel",
+        "unity"
+      ],
+      "status": "converged",
+      "winner": "unity",
+      "ab_response": "unity",
+      "ba_response": "unity",
+      "ab_choice": "unity",
+      "ba_choice": "unity",
+      "timestamp": "2025-08-06T13:39:00.295194"
+    },
+    {
+      "pair": [
+        "duct",
+        "uplifting"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "duct",
+      "ba_response": "uplifting",
+      "ab_choice": "duct",
+      "ba_choice": "uplifting",
+      "timestamp": "2025-08-06T13:39:00.310868"
+    },
+    {
+      "pair": [
+        "formica",
+        "victory"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "victory",
+      "ba_response": "formica",
+      "ab_choice": "victory",
+      "ba_choice": "formica",
+      "timestamp": "2025-08-06T13:39:00.766249"
+    },
+    {
+      "pair": [
+        "cabinet",
+        "wholesome"
+      ],
+      "status": "converged",
+      "winner": "wholesome",
+      "ab_response": "wholesome",
+      "ba_response": "wholesome",
+      "ab_choice": "wholesome",
+      "ba_choice": "wholesome",
+      "timestamp": "2025-08-06T13:39:01.378687"
+    },
+    {
+      "pair": [
+        "handle",
+        "phenomenal"
+      ],
+      "status": "converged",
+      "winner": "handle",
+      "ab_response": "handle",
+      "ba_response": "handle",
+      "ab_choice": "handle",
+      "ba_choice": "handle",
+      "timestamp": "2025-08-06T13:39:01.676787"
+    },
+    {
+      "pair": [
+        "serenity",
+        "sweetness"
+      ],
+      "status": "converged",
+      "winner": "serenity",
+      "ab_response": "serenity",
+      "ba_response": "serenity",
+      "ab_choice": "serenity",
+      "ba_choice": "serenity",
+      "timestamp": "2025-08-06T13:39:01.736823"
+    },
+    {
+      "pair": [
+        "utopia",
+        "wisdom"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "wisdom",
+      "ba_response": "utopia",
+      "ab_choice": "wisdom",
+      "ba_choice": "utopia",
+      "timestamp": "2025-08-06T13:39:01.809935"
+    },
+    {
+      "pair": [
+        "bucket",
+        "gravel"
+      ],
+      "status": "converged",
+      "winner": "bucket",
+      "ab_response": "bucket",
+      "ba_response": "bucket",
+      "ab_choice": "bucket",
+      "ba_choice": "bucket",
+      "timestamp": "2025-08-06T13:39:02.005900"
+    },
+    {
+      "pair": [
+        "doorknob",
+        "sweetness"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "sweetness",
+      "ba_response": "doorknob",
+      "ab_choice": "sweetness",
+      "ba_choice": "doorknob",
+      "timestamp": "2025-08-06T13:39:02.300917"
+    },
+    {
+      "pair": [
+        "curtain",
+        "triumphant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "curtain",
+      "ba_response": "triumphant",
+      "ab_choice": "curtain",
+      "ba_choice": "triumphant",
+      "timestamp": "2025-08-06T13:39:02.597506"
+    },
+    {
+      "pair": [
+        "beige",
+        "thriving"
+      ],
+      "status": "converged",
+      "winner": "thriving",
+      "ab_response": "thriving",
+      "ba_response": "thriving",
+      "ab_choice": "thriving",
+      "ba_choice": "thriving",
+      "timestamp": "2025-08-06T13:39:02.731201"
+    },
+    {
+      "pair": [
+        "curtain",
+        "resplendent"
+      ],
+      "status": "converged",
+      "winner": "resplendent",
+      "ab_response": "resplendent",
+      "ba_response": "resplendent",
+      "ab_choice": "resplendent",
+      "ba_choice": "resplendent",
+      "timestamp": "2025-08-06T13:39:02.745391"
+    },
+    {
+      "pair": [
+        "paradise",
+        "profound"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "profound",
+      "ba_response": "paradise",
+      "ab_choice": "profound",
+      "ba_choice": "paradise",
+      "timestamp": "2025-08-06T13:39:02.921591"
+    },
+    {
+      "pair": [
+        "grout",
+        "serendipity"
+      ],
+      "status": "converged",
+      "winner": "serendipity",
+      "ab_response": "serendipity",
+      "ba_response": "serendipity",
+      "ab_choice": "serendipity",
+      "ba_choice": "serendipity",
+      "timestamp": "2025-08-06T13:39:03.279025"
+    },
+    {
+      "pair": [
+        "flooring",
+        "sublime"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "sublime",
+      "ba_response": "flooring",
+      "ab_choice": "sublime",
+      "ba_choice": "flooring",
+      "timestamp": "2025-08-06T13:39:03.621365"
+    },
+    {
+      "pair": [
+        "tranquility",
+        "wisdom"
+      ],
+      "status": "converged",
+      "winner": "tranquility",
+      "ab_response": "tranquility",
+      "ba_response": "tranquility",
+      "ab_choice": "tranquility",
+      "ba_choice": "tranquility",
+      "timestamp": "2025-08-06T13:39:03.684213"
+    },
+    {
+      "pair": [
+        "cement",
+        "sublime"
+      ],
+      "status": "converged",
+      "winner": "cement",
+      "ab_response": "cement",
+      "ba_response": "cement",
+      "ab_choice": "cement",
+      "ba_choice": "cement",
+      "timestamp": "2025-08-06T13:39:03.803398"
+    },
+    {
+      "pair": [
+        "cubicle",
+        "sweetness"
+      ],
+      "status": "converged",
+      "winner": "cubicle",
+      "ab_response": "cubicle",
+      "ba_response": "cubicle",
+      "ab_choice": "cubicle",
+      "ba_choice": "cubicle",
+      "timestamp": "2025-08-06T13:39:04.397869"
+    },
+    {
+      "pair": [
+        "clipboard",
+        "splendor"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "splendor",
+      "ba_response": "clipboard",
+      "ab_choice": "splendor",
+      "ba_choice": "clipboard",
+      "timestamp": "2025-08-06T13:39:04.441063"
+    },
+    {
+      "pair": [
+        "carpet",
+        "dowel"
+      ],
+      "status": "converged",
+      "winner": "dowel",
+      "ab_response": "dowel",
+      "ba_response": "dowel",
+      "ab_choice": "dowel",
+      "ba_choice": "dowel",
+      "timestamp": "2025-08-06T13:39:04.609143"
+    },
+    {
+      "pair": [
+        "drawer",
+        "prosperity"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "drawer",
+      "ba_response": "prosperity",
+      "ab_choice": "drawer",
+      "ba_choice": "prosperity",
+      "timestamp": "2025-08-06T13:39:04.742048"
+    },
+    {
+      "pair": [
+        "handle",
+        "spectacular"
+      ],
+      "status": "converged",
+      "winner": "handle",
+      "ab_response": "handle",
+      "ba_response": "handle",
+      "ab_choice": "handle",
+      "ba_choice": "handle",
+      "timestamp": "2025-08-06T13:39:04.991722"
+    },
+    {
+      "pair": [
+        "desk",
+        "vibrancy"
+      ],
+      "status": "converged",
+      "winner": "desk",
+      "ab_response": "desk",
+      "ba_response": "desk",
+      "ab_choice": "desk",
+      "ba_choice": "desk",
+      "timestamp": "2025-08-06T13:39:05.409588"
+    },
+    {
+      "pair": [
+        "adequate",
+        "generic"
+      ],
+      "status": "converged",
+      "winner": "adequate",
+      "ab_response": "adequate",
+      "ba_response": "adequate",
+      "ab_choice": "adequate",
+      "ba_choice": "adequate",
+      "timestamp": "2025-08-06T13:39:05.447672"
+    },
+    {
+      "pair": [
+        "chair",
+        "formica"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "formica",
+      "ba_response": "chair",
+      "ab_choice": "formica",
+      "ba_choice": "chair",
+      "timestamp": "2025-08-06T13:39:05.536137"
+    },
+    {
+      "pair": [
+        "pleasure",
+        "splendid"
+      ],
+      "status": "converged",
+      "winner": "pleasure",
+      "ab_response": "pleasure",
+      "ba_response": "pleasure",
+      "ab_choice": "pleasure",
+      "ba_choice": "pleasure",
+      "timestamp": "2025-08-06T13:39:05.733580"
+    },
+    {
+      "pair": [
+        "asphalt",
+        "profound"
+      ],
+      "status": "converged",
+      "winner": "profound",
+      "ab_response": "profound",
+      "ba_response": "profound",
+      "ab_choice": "profound",
+      "ba_choice": "profound",
+      "timestamp": "2025-08-06T13:39:06.128370"
+    },
+    {
+      "pair": [
+        "sublime",
+        "vibrant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "vibrant",
+      "ba_response": "sublime",
+      "ab_choice": "vibrant",
+      "ba_choice": "sublime",
+      "timestamp": "2025-08-06T13:39:06.300484"
+    },
+    {
+      "pair": [
+        "fastener",
+        "puppies"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "fastener",
+      "ba_response": "puppies",
+      "ab_choice": "fastener",
+      "ba_choice": "puppies",
+      "timestamp": "2025-08-06T13:39:06.512948"
+    },
+    {
+      "pair": [
+        "folder",
+        "triumphant"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "folder",
+      "ba_response": "triumphant",
+      "ab_choice": "folder",
+      "ba_choice": "triumphant",
+      "timestamp": "2025-08-06T13:39:06.636835"
+    },
+    {
+      "pair": [
+        "basic",
+        "grout"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "basic",
+      "ba_response": "grout",
+      "ab_choice": "basic",
+      "ba_choice": "grout",
+      "timestamp": "2025-08-06T13:39:06.795492"
+    },
+    {
+      "pair": [
+        "flange",
+        "serendipity"
+      ],
+      "status": "converged",
+      "winner": "serendipity",
+      "ab_response": "serendipity",
+      "ba_response": "serendipity",
+      "ab_choice": "serendipity",
+      "ba_choice": "serendipity",
+      "timestamp": "2025-08-06T13:39:07.101093"
+    },
+    {
+      "pair": [
+        "flange",
+        "optimal"
+      ],
+      "status": "converged",
+      "winner": "optimal",
+      "ab_response": "optimal",
+      "ba_response": "optimal",
+      "ab_choice": "optimal",
+      "ba_choice": "optimal",
+      "timestamp": "2025-08-06T13:39:07.443641"
+    },
+    {
+      "pair": [
+        "bland",
+        "rapture"
+      ],
+      "status": "converged",
+      "winner": "rapture",
+      "ab_response": "rapture",
+      "ba_response": "rapture",
+      "ab_choice": "rapture",
+      "ba_choice": "rapture",
+      "timestamp": "2025-08-06T13:39:07.592745"
+    },
+    {
+      "pair": [
+        "gasket",
+        "triumph"
+      ],
+      "status": "converged",
+      "winner": "triumph",
+      "ab_response": "triumph",
+      "ba_response": "triumph",
+      "ab_choice": "triumph",
+      "ba_choice": "triumph",
+      "timestamp": "2025-08-06T13:39:07.859082"
+    },
+    {
+      "pair": [
+        "perfection",
+        "serenity"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "serenity",
+      "ba_response": "perfection",
+      "ab_choice": "serenity",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:39:07.863841"
+    },
+    {
+      "pair": [
+        "bracket",
+        "insulation"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "bracket",
+      "ba_response": "insulation",
+      "ab_choice": "bracket",
+      "ba_choice": "insulation",
+      "timestamp": "2025-08-06T13:39:07.996782"
+    },
+    {
+      "pair": [
+        "phenomenal",
+        "puppies"
+      ],
+      "status": "converged",
+      "winner": "phenomenal",
+      "ab_response": "phenomenal",
+      "ba_response": "phenomenal",
+      "ab_choice": "phenomenal",
+      "ba_choice": "phenomenal",
+      "timestamp": "2025-08-06T13:39:08.382965"
+    },
+    {
+      "pair": [
+        "brick",
+        "serendipity"
+      ],
+      "status": "converged",
+      "winner": "serendipity",
+      "ab_response": "serendipity",
+      "ba_response": "serendipity",
+      "ab_choice": "serendipity",
+      "ba_choice": "serendipity",
+      "timestamp": "2025-08-06T13:39:08.713754"
+    },
+    {
+      "pair": [
+        "peace",
+        "vibrant"
+      ],
+      "status": "converged",
+      "winner": "peace",
+      "ab_response": "peace",
+      "ba_response": "peace",
+      "ab_choice": "peace",
+      "ba_choice": "peace",
+      "timestamp": "2025-08-06T13:39:08.814060"
+    },
+    {
+      "pair": [
+        "baseline",
+        "desk"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "baseline",
+      "ba_response": "desk",
+      "ab_choice": "baseline",
+      "ba_choice": "desk",
+      "timestamp": "2025-08-06T13:39:08.851918"
+    },
+    {
+      "pair": [
+        "basic",
+        "puppies"
+      ],
+      "status": "converged",
+      "winner": "basic",
+      "ab_response": "basic",
+      "ba_response": "basic",
+      "ab_choice": "basic",
+      "ba_choice": "basic",
+      "timestamp": "2025-08-06T13:39:09.125613"
+    },
+    {
+      "pair": [
+        "elevator",
+        "perfection"
+      ],
+      "status": "converged",
+      "winner": "perfection",
+      "ab_response": "perfection",
+      "ba_response": "perfection",
+      "ab_choice": "perfection",
+      "ba_choice": "perfection",
+      "timestamp": "2025-08-06T13:39:09.307261"
+    },
+    {
+      "pair": [
+        "rapture",
+        "wonder"
+      ],
+      "status": "converged",
+      "winner": "wonder",
+      "ab_response": "wonder",
+      "ba_response": "wonder",
+      "ab_choice": "wonder",
+      "ba_choice": "wonder",
+      "timestamp": "2025-08-06T13:39:09.712741"
+    },
+    {
+      "pair": [
+        "cabinet",
+        "radiance"
+      ],
+      "status": "draw",
+      "winner": null,
+      "ab_response": "cabinet",
+      "ba_response": "radiance",
+      "ab_choice": "cabinet",
+      "ba_choice": "radiance",
+      "timestamp": "2025-08-06T13:39:09.968517"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "dataset_id": "test_5",
+  "description": "Minimal test dataset with 5 pairs for development testing",
+  "pairs": [
+    {
+      "pair_id": "001",
+      "option_A": "🔴",
+      "option_B": "🔵"
+    },
+    {
+      "pair_id": "002",
+      "option_A": "⬜",
+      "option_B": "⬛"
+    },
+    {
+      "pair_id": "003",
+      "option_A": "🌞",
+      "option_B": "🌛"
+    },
+    {
+      "pair_id": "004",
+      "option_A": "🍎",
+      "option_B": "🍊"
+    },
+    {
+      "pair_id": "005",
+      "option_A": "🚗",
+      "option_B": "🚲"
+    }
+  ]
+}

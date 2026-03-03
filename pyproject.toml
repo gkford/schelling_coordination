@@ -1,0 +1,15 @@
+[project]
+name = "schelling-eval"
+version = "0.1.0"
+description = "Schelling coordination evaluation for LLMs using Inspect AI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.69.0",
+    "groq>=0.28.0",
+    "inspect-ai>=0.3.106",
+    "litellm>=1.73.0",
+    "openai>=2.0.0",
+    "python-dotenv>=1.1.0",
+    "wordfreq>=3.1.1",
+]

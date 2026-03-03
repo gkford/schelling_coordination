@@ -1,0 +1,2075 @@
+{
+  "dataset_id": "random_mixed_types",
+  "description": "29 randomly selected items (7 English words, 7 mathematical/logical symbols, 7 kanji, 8 emojis) paired where option_A has higher codepoint than option_B. Generated with seed=0.",
+  "seed": 0,
+  "methodology": "Items randomly selected from four categories: English words, mathematical/logical symbols, kanji characters, and emojis. Paired in all possible combinations with consistent ordering.",
+  "composition": {
+    "english_words": 7,
+    "math_logic_symbols": 7,
+    "kanji": 7,
+    "emojis": 8
+  },
+  "selected_items": [
+    "lot",
+    "moment",
+    "month",
+    "program",
+    "student",
+    "week",
+    "year",
+    "¬",
+    "±",
+    "÷",
+    "∑",
+    "∪",
+    "≈",
+    "≠",
+    "◾",
+    "⬅",
+    "内",
+    "前",
+    "土",
+    "始",
+    "本",
+    "社",
+    "話",
+    "🏜",
+    "🐍",
+    "👵",
+    "📴",
+    "🚂",
+    "🤵"
+  ],
+  "pairs": [
+    {
+      "pair_id": "001",
+      "option_A": "moment",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "002",
+      "option_A": "month",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "003",
+      "option_A": "program",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "004",
+      "option_A": "student",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "005",
+      "option_A": "week",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "006",
+      "option_A": "year",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "007",
+      "option_A": "¬",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "008",
+      "option_A": "±",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "009",
+      "option_A": "÷",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "010",
+      "option_A": "∑",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "011",
+      "option_A": "∪",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "012",
+      "option_A": "≈",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "013",
+      "option_A": "≠",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "014",
+      "option_A": "◾",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "015",
+      "option_A": "⬅",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "016",
+      "option_A": "内",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "017",
+      "option_A": "前",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "018",
+      "option_A": "土",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "019",
+      "option_A": "始",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "020",
+      "option_A": "本",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "021",
+      "option_A": "社",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "022",
+      "option_A": "話",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "023",
+      "option_A": "🏜",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "024",
+      "option_A": "🐍",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "025",
+      "option_A": "👵",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "026",
+      "option_A": "📴",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "027",
+      "option_A": "🚂",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "028",
+      "option_A": "🤵",
+      "option_B": "lot"
+    },
+    {
+      "pair_id": "029",
+      "option_A": "month",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "030",
+      "option_A": "program",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "031",
+      "option_A": "student",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "032",
+      "option_A": "week",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "033",
+      "option_A": "year",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "034",
+      "option_A": "¬",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "035",
+      "option_A": "±",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "036",
+      "option_A": "÷",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "037",
+      "option_A": "∑",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "038",
+      "option_A": "∪",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "039",
+      "option_A": "≈",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "040",
+      "option_A": "≠",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "041",
+      "option_A": "◾",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "042",
+      "option_A": "⬅",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "043",
+      "option_A": "内",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "044",
+      "option_A": "前",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "045",
+      "option_A": "土",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "046",
+      "option_A": "始",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "047",
+      "option_A": "本",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "048",
+      "option_A": "社",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "049",
+      "option_A": "話",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "050",
+      "option_A": "🏜",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "051",
+      "option_A": "🐍",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "052",
+      "option_A": "👵",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "053",
+      "option_A": "📴",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "054",
+      "option_A": "🚂",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "055",
+      "option_A": "🤵",
+      "option_B": "moment"
+    },
+    {
+      "pair_id": "056",
+      "option_A": "program",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "057",
+      "option_A": "student",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "058",
+      "option_A": "week",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "059",
+      "option_A": "year",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "060",
+      "option_A": "¬",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "061",
+      "option_A": "±",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "062",
+      "option_A": "÷",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "063",
+      "option_A": "∑",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "064",
+      "option_A": "∪",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "065",
+      "option_A": "≈",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "066",
+      "option_A": "≠",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "067",
+      "option_A": "◾",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "068",
+      "option_A": "⬅",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "069",
+      "option_A": "内",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "070",
+      "option_A": "前",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "071",
+      "option_A": "土",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "072",
+      "option_A": "始",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "073",
+      "option_A": "本",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "074",
+      "option_A": "社",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "075",
+      "option_A": "話",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "076",
+      "option_A": "🏜",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "077",
+      "option_A": "🐍",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "078",
+      "option_A": "👵",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "079",
+      "option_A": "📴",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "080",
+      "option_A": "🚂",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "081",
+      "option_A": "🤵",
+      "option_B": "month"
+    },
+    {
+      "pair_id": "082",
+      "option_A": "student",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "083",
+      "option_A": "week",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "084",
+      "option_A": "year",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "085",
+      "option_A": "¬",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "086",
+      "option_A": "±",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "087",
+      "option_A": "÷",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "088",
+      "option_A": "∑",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "089",
+      "option_A": "∪",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "090",
+      "option_A": "≈",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "091",
+      "option_A": "≠",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "092",
+      "option_A": "◾",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "093",
+      "option_A": "⬅",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "094",
+      "option_A": "内",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "095",
+      "option_A": "前",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "096",
+      "option_A": "土",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "097",
+      "option_A": "始",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "098",
+      "option_A": "本",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "099",
+      "option_A": "社",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "100",
+      "option_A": "話",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "101",
+      "option_A": "🏜",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "102",
+      "option_A": "🐍",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "103",
+      "option_A": "👵",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "104",
+      "option_A": "📴",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "105",
+      "option_A": "🚂",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "106",
+      "option_A": "🤵",
+      "option_B": "program"
+    },
+    {
+      "pair_id": "107",
+      "option_A": "week",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "108",
+      "option_A": "year",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "109",
+      "option_A": "¬",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "110",
+      "option_A": "±",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "111",
+      "option_A": "÷",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "112",
+      "option_A": "∑",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "113",
+      "option_A": "∪",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "114",
+      "option_A": "≈",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "115",
+      "option_A": "≠",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "116",
+      "option_A": "◾",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "117",
+      "option_A": "⬅",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "118",
+      "option_A": "内",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "119",
+      "option_A": "前",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "120",
+      "option_A": "土",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "121",
+      "option_A": "始",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "122",
+      "option_A": "本",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "123",
+      "option_A": "社",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "124",
+      "option_A": "話",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "125",
+      "option_A": "🏜",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "126",
+      "option_A": "🐍",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "127",
+      "option_A": "👵",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "128",
+      "option_A": "📴",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "129",
+      "option_A": "🚂",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "130",
+      "option_A": "🤵",
+      "option_B": "student"
+    },
+    {
+      "pair_id": "131",
+      "option_A": "year",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "132",
+      "option_A": "¬",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "133",
+      "option_A": "±",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "134",
+      "option_A": "÷",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "135",
+      "option_A": "∑",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "136",
+      "option_A": "∪",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "137",
+      "option_A": "≈",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "138",
+      "option_A": "≠",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "139",
+      "option_A": "◾",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "140",
+      "option_A": "⬅",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "141",
+      "option_A": "内",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "142",
+      "option_A": "前",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "143",
+      "option_A": "土",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "144",
+      "option_A": "始",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "145",
+      "option_A": "本",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "146",
+      "option_A": "社",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "147",
+      "option_A": "話",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "148",
+      "option_A": "🏜",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "149",
+      "option_A": "🐍",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "150",
+      "option_A": "👵",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "151",
+      "option_A": "📴",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "152",
+      "option_A": "🚂",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "153",
+      "option_A": "🤵",
+      "option_B": "week"
+    },
+    {
+      "pair_id": "154",
+      "option_A": "¬",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "155",
+      "option_A": "±",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "156",
+      "option_A": "÷",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "157",
+      "option_A": "∑",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "158",
+      "option_A": "∪",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "159",
+      "option_A": "≈",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "160",
+      "option_A": "≠",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "161",
+      "option_A": "◾",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "162",
+      "option_A": "⬅",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "163",
+      "option_A": "内",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "164",
+      "option_A": "前",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "165",
+      "option_A": "土",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "166",
+      "option_A": "始",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "167",
+      "option_A": "本",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "168",
+      "option_A": "社",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "169",
+      "option_A": "話",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "170",
+      "option_A": "🏜",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "171",
+      "option_A": "🐍",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "172",
+      "option_A": "👵",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "173",
+      "option_A": "📴",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "174",
+      "option_A": "🚂",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "175",
+      "option_A": "🤵",
+      "option_B": "year"
+    },
+    {
+      "pair_id": "176",
+      "option_A": "±",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "177",
+      "option_A": "÷",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "178",
+      "option_A": "∑",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "179",
+      "option_A": "∪",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "180",
+      "option_A": "≈",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "181",
+      "option_A": "≠",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "182",
+      "option_A": "◾",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "183",
+      "option_A": "⬅",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "184",
+      "option_A": "内",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "185",
+      "option_A": "前",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "186",
+      "option_A": "土",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "187",
+      "option_A": "始",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "188",
+      "option_A": "本",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "189",
+      "option_A": "社",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "190",
+      "option_A": "話",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "191",
+      "option_A": "🏜",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "192",
+      "option_A": "🐍",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "193",
+      "option_A": "👵",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "194",
+      "option_A": "📴",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "195",
+      "option_A": "🚂",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "196",
+      "option_A": "🤵",
+      "option_B": "¬"
+    },
+    {
+      "pair_id": "197",
+      "option_A": "÷",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "198",
+      "option_A": "∑",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "199",
+      "option_A": "∪",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "200",
+      "option_A": "≈",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "201",
+      "option_A": "≠",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "202",
+      "option_A": "◾",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "203",
+      "option_A": "⬅",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "204",
+      "option_A": "内",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "205",
+      "option_A": "前",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "206",
+      "option_A": "土",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "207",
+      "option_A": "始",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "208",
+      "option_A": "本",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "209",
+      "option_A": "社",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "210",
+      "option_A": "話",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "211",
+      "option_A": "🏜",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "212",
+      "option_A": "🐍",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "213",
+      "option_A": "👵",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "214",
+      "option_A": "📴",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "215",
+      "option_A": "🚂",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "216",
+      "option_A": "🤵",
+      "option_B": "±"
+    },
+    {
+      "pair_id": "217",
+      "option_A": "∑",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "218",
+      "option_A": "∪",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "219",
+      "option_A": "≈",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "220",
+      "option_A": "≠",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "221",
+      "option_A": "◾",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "222",
+      "option_A": "⬅",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "223",
+      "option_A": "内",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "224",
+      "option_A": "前",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "225",
+      "option_A": "土",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "226",
+      "option_A": "始",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "227",
+      "option_A": "本",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "228",
+      "option_A": "社",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "229",
+      "option_A": "話",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "230",
+      "option_A": "🏜",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "231",
+      "option_A": "🐍",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "232",
+      "option_A": "👵",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "233",
+      "option_A": "📴",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "234",
+      "option_A": "🚂",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "235",
+      "option_A": "🤵",
+      "option_B": "÷"
+    },
+    {
+      "pair_id": "236",
+      "option_A": "∪",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "237",
+      "option_A": "≈",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "238",
+      "option_A": "≠",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "239",
+      "option_A": "◾",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "240",
+      "option_A": "⬅",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "241",
+      "option_A": "内",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "242",
+      "option_A": "前",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "243",
+      "option_A": "土",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "244",
+      "option_A": "始",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "245",
+      "option_A": "本",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "246",
+      "option_A": "社",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "247",
+      "option_A": "話",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "248",
+      "option_A": "🏜",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "249",
+      "option_A": "🐍",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "250",
+      "option_A": "👵",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "251",
+      "option_A": "📴",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "252",
+      "option_A": "🚂",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "253",
+      "option_A": "🤵",
+      "option_B": "∑"
+    },
+    {
+      "pair_id": "254",
+      "option_A": "≈",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "255",
+      "option_A": "≠",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "256",
+      "option_A": "◾",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "257",
+      "option_A": "⬅",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "258",
+      "option_A": "内",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "259",
+      "option_A": "前",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "260",
+      "option_A": "土",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "261",
+      "option_A": "始",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "262",
+      "option_A": "本",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "263",
+      "option_A": "社",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "264",
+      "option_A": "話",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "265",
+      "option_A": "🏜",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "266",
+      "option_A": "🐍",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "267",
+      "option_A": "👵",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "268",
+      "option_A": "📴",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "269",
+      "option_A": "🚂",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "270",
+      "option_A": "🤵",
+      "option_B": "∪"
+    },
+    {
+      "pair_id": "271",
+      "option_A": "≠",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "272",
+      "option_A": "◾",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "273",
+      "option_A": "⬅",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "274",
+      "option_A": "内",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "275",
+      "option_A": "前",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "276",
+      "option_A": "土",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "277",
+      "option_A": "始",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "278",
+      "option_A": "本",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "279",
+      "option_A": "社",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "280",
+      "option_A": "話",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "281",
+      "option_A": "🏜",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "282",
+      "option_A": "🐍",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "283",
+      "option_A": "👵",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "284",
+      "option_A": "📴",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "285",
+      "option_A": "🚂",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "286",
+      "option_A": "🤵",
+      "option_B": "≈"
+    },
+    {
+      "pair_id": "287",
+      "option_A": "◾",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "288",
+      "option_A": "⬅",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "289",
+      "option_A": "内",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "290",
+      "option_A": "前",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "291",
+      "option_A": "土",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "292",
+      "option_A": "始",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "293",
+      "option_A": "本",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "294",
+      "option_A": "社",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "295",
+      "option_A": "話",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "296",
+      "option_A": "🏜",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "297",
+      "option_A": "🐍",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "298",
+      "option_A": "👵",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "299",
+      "option_A": "📴",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "300",
+      "option_A": "🚂",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "301",
+      "option_A": "🤵",
+      "option_B": "≠"
+    },
+    {
+      "pair_id": "302",
+      "option_A": "⬅",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "303",
+      "option_A": "内",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "304",
+      "option_A": "前",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "305",
+      "option_A": "土",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "306",
+      "option_A": "始",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "307",
+      "option_A": "本",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "308",
+      "option_A": "社",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "309",
+      "option_A": "話",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "310",
+      "option_A": "🏜",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "311",
+      "option_A": "🐍",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "312",
+      "option_A": "👵",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "313",
+      "option_A": "📴",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "314",
+      "option_A": "🚂",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "315",
+      "option_A": "🤵",
+      "option_B": "◾"
+    },
+    {
+      "pair_id": "316",
+      "option_A": "内",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "317",
+      "option_A": "前",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "318",
+      "option_A": "土",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "319",
+      "option_A": "始",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "320",
+      "option_A": "本",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "321",
+      "option_A": "社",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "322",
+      "option_A": "話",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "323",
+      "option_A": "🏜",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "324",
+      "option_A": "🐍",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "325",
+      "option_A": "👵",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "326",
+      "option_A": "📴",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "327",
+      "option_A": "🚂",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "328",
+      "option_A": "🤵",
+      "option_B": "⬅"
+    },
+    {
+      "pair_id": "329",
+      "option_A": "前",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "330",
+      "option_A": "土",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "331",
+      "option_A": "始",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "332",
+      "option_A": "本",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "333",
+      "option_A": "社",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "334",
+      "option_A": "話",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "335",
+      "option_A": "🏜",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "336",
+      "option_A": "🐍",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "337",
+      "option_A": "👵",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "338",
+      "option_A": "📴",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "339",
+      "option_A": "🚂",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "340",
+      "option_A": "🤵",
+      "option_B": "内"
+    },
+    {
+      "pair_id": "341",
+      "option_A": "土",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "342",
+      "option_A": "始",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "343",
+      "option_A": "本",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "344",
+      "option_A": "社",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "345",
+      "option_A": "話",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "346",
+      "option_A": "🏜",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "347",
+      "option_A": "🐍",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "348",
+      "option_A": "👵",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "349",
+      "option_A": "📴",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "350",
+      "option_A": "🚂",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "351",
+      "option_A": "🤵",
+      "option_B": "前"
+    },
+    {
+      "pair_id": "352",
+      "option_A": "始",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "353",
+      "option_A": "本",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "354",
+      "option_A": "社",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "355",
+      "option_A": "話",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "356",
+      "option_A": "🏜",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "357",
+      "option_A": "🐍",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "358",
+      "option_A": "👵",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "359",
+      "option_A": "📴",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "360",
+      "option_A": "🚂",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "361",
+      "option_A": "🤵",
+      "option_B": "土"
+    },
+    {
+      "pair_id": "362",
+      "option_A": "本",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "363",
+      "option_A": "社",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "364",
+      "option_A": "話",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "365",
+      "option_A": "🏜",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "366",
+      "option_A": "🐍",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "367",
+      "option_A": "👵",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "368",
+      "option_A": "📴",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "369",
+      "option_A": "🚂",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "370",
+      "option_A": "🤵",
+      "option_B": "始"
+    },
+    {
+      "pair_id": "371",
+      "option_A": "社",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "372",
+      "option_A": "話",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "373",
+      "option_A": "🏜",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "374",
+      "option_A": "🐍",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "375",
+      "option_A": "👵",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "376",
+      "option_A": "📴",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "377",
+      "option_A": "🚂",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "378",
+      "option_A": "🤵",
+      "option_B": "本"
+    },
+    {
+      "pair_id": "379",
+      "option_A": "話",
+      "option_B": "社"
+    },
+    {
+      "pair_id": "380",
+      "option_A": "🏜",
+      "option_B": "社"
+    },
+    {
+      "pair_id": "381",
+      "option_A": "🐍",
+      "option_B": "社"
+    },
+    {
+      "pair_id": "382",
+      "option_A": "👵",
+      "option_B": "社"
+    },
+    {
+      "pair_id": "383",
+      "option_A": "📴",
+      "option_B": "社"
+    },
+    {
+      "pair_id": "384",
+      "option_A": "🚂",
+      "option_B": "社"
+    },
+    {
+      "pair_id": "385",
+      "option_A": "🤵",
+      "option_B": "社"
+    },
+    {
+      "pair_id": "386",
+      "option_A": "🏜",
+      "option_B": "話"
+    },
+    {
+      "pair_id": "387",
+      "option_A": "🐍",
+      "option_B": "話"
+    },
+    {
+      "pair_id": "388",
+      "option_A": "👵",
+      "option_B": "話"
+    },
+    {
+      "pair_id": "389",
+      "option_A": "📴",
+      "option_B": "話"
+    },
+    {
+      "pair_id": "390",
+      "option_A": "🚂",
+      "option_B": "話"
+    },
+    {
+      "pair_id": "391",
+      "option_A": "🤵",
+      "option_B": "話"
+    },
+    {
+      "pair_id": "392",
+      "option_A": "🐍",
+      "option_B": "🏜"
+    },
+    {
+      "pair_id": "393",
+      "option_A": "👵",
+      "option_B": "🏜"
+    },
+    {
+      "pair_id": "394",
+      "option_A": "📴",
+      "option_B": "🏜"
+    },
+    {
+      "pair_id": "395",
+      "option_A": "🚂",
+      "option_B": "🏜"
+    },
+    {
+      "pair_id": "396",
+      "option_A": "🤵",
+      "option_B": "🏜"
+    },
+    {
+      "pair_id": "397",
+      "option_A": "👵",
+      "option_B": "🐍"
+    },
+    {
+      "pair_id": "398",
+      "option_A": "📴",
+      "option_B": "🐍"
+    },
+    {
+      "pair_id": "399",
+      "option_A": "🚂",
+      "option_B": "🐍"
+    },
+    {
+      "pair_id": "400",
+      "option_A": "🤵",
+      "option_B": "🐍"
+    },
+    {
+      "pair_id": "401",
+      "option_A": "📴",
+      "option_B": "👵"
+    },
+    {
+      "pair_id": "402",
+      "option_A": "🚂",
+      "option_B": "👵"
+    },
+    {
+      "pair_id": "403",
+      "option_A": "🤵",
+      "option_B": "👵"
+    },
+    {
+      "pair_id": "404",
+      "option_A": "🚂",
+      "option_B": "📴"
+    },
+    {
+      "pair_id": "405",
+      "option_A": "🤵",
+      "option_B": "📴"
+    },
+    {
+      "pair_id": "406",
+      "option_A": "🤵",
+      "option_B": "🚂"
+    }
+  ]
+}

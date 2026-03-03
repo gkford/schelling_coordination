@@ -1,0 +1,429 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-26T01:53:22.656453Z",
+    "description": "Aggregated category distribution for pre-hoc justification data (strategy and heuristic variations)",
+    "dataset": "salient_vs_alphabetical_elo",
+    "variations_explained": {
+      "strategy": "Model asked: 'What strategy would you use to answer this question?'",
+      "heuristic": "Model asked: 'What heuristic would you use to answer this question?'"
+    },
+    "subsets_explained": {
+      "all_pairs": "All 400 pairs \u00d7 2 orderings = up to 800 samples",
+      "differed_in_control": "Only pairs where AB and BA made different choices in control condition"
+    },
+    "categories": [
+      "Failures",
+      "Frequency",
+      "Length",
+      "Lexicographic",
+      "Other_Non-semantic",
+      "Other_Semantic",
+      "Positional",
+      "Random",
+      "Salience"
+    ],
+    "models_included": 8
+  },
+  "results": [
+    {
+      "model_id": "gpt-4.1",
+      "model_name": "GPT-4.1",
+      "model_family": "openai",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 797,
+            "category_counts": {
+              "Positional": 87,
+              "Lexicographic": 710,
+              "Failures": 2,
+              "Other_Semantic": 1
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 378,
+            "inferable_samples": 378,
+            "category_counts": {
+              "Lexicographic": 349,
+              "Positional": 29
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 797,
+            "category_counts": {
+              "Lexicographic": 538,
+              "Positional": 259,
+              "Failures": 3
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 378,
+            "inferable_samples": 378,
+            "category_counts": {
+              "Lexicographic": 271,
+              "Positional": 107
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "gpt-4.1-mini",
+      "model_name": "GPT-4.1 Mini",
+      "model_family": "openai",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 38,
+            "category_counts": {
+              "Random": 703,
+              "Other_Semantic": 34,
+              "Failures": 23,
+              "Lexicographic": 36,
+              "Frequency": 2,
+              "Other_Non-semantic": 2
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 78,
+            "inferable_samples": 1,
+            "category_counts": {
+              "Random": 72,
+              "Other_Semantic": 4,
+              "Lexicographic": 1,
+              "Other_Non-semantic": 1
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 561,
+            "category_counts": {
+              "Frequency": 469,
+              "Other_Non-semantic": 58,
+              "Failures": 27,
+              "Lexicographic": 34,
+              "Length": 34,
+              "Other_Semantic": 102,
+              "Salience": 56,
+              "Random": 18,
+              "Positional": 2
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 78,
+            "inferable_samples": 46,
+            "category_counts": {
+              "Frequency": 44,
+              "Lexicographic": 2,
+              "Length": 11,
+              "Other_Semantic": 11,
+              "Other_Non-semantic": 8,
+              "Random": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "gpt-4.1-nano",
+      "model_name": "GPT-4.1 Nano",
+      "model_family": "openai",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 0,
+            "category_counts": {
+              "Failures": 591,
+              "Other_Semantic": 209
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 208,
+            "inferable_samples": 0,
+            "category_counts": {
+              "Failures": 142,
+              "Other_Semantic": 66
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 31,
+            "category_counts": {
+              "Other_Semantic": 288,
+              "Failures": 472,
+              "Other_Non-semantic": 9,
+              "Salience": 31
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 208,
+            "inferable_samples": 5,
+            "category_counts": {
+              "Other_Semantic": 68,
+              "Failures": 134,
+              "Salience": 5,
+              "Other_Non-semantic": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "claude-opus-4.1",
+      "model_name": "Claude Opus 4.1",
+      "model_family": "anthropic",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 800,
+            "category_counts": {
+              "Lexicographic": 800
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 600,
+            "inferable_samples": 600,
+            "category_counts": {
+              "Lexicographic": 600
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 800,
+            "category_counts": {
+              "Lexicographic": 800
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 600,
+            "inferable_samples": 600,
+            "category_counts": {
+              "Lexicographic": 600
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "claude-sonnet-4.5",
+      "model_name": "Claude Sonnet 4.5",
+      "model_family": "anthropic",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 800,
+            "category_counts": {
+              "Lexicographic": 729,
+              "Positional": 71
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 114,
+            "inferable_samples": 114,
+            "category_counts": {
+              "Lexicographic": 110,
+              "Positional": 4
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 800,
+            "category_counts": {
+              "Lexicographic": 799,
+              "Positional": 1
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 114,
+            "inferable_samples": 114,
+            "category_counts": {
+              "Lexicographic": 114
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "deepseek-v3",
+      "model_name": "DeepSeek V3",
+      "model_family": "deepseek",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 784,
+            "category_counts": {
+              "Lexicographic": 38,
+              "Positional": 746,
+              "Failures": 13,
+              "Random": 3
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 260,
+            "inferable_samples": 260,
+            "category_counts": {
+              "Positional": 252,
+              "Lexicographic": 8
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 649,
+            "category_counts": {
+              "Positional": 536,
+              "Lexicographic": 83,
+              "Failures": 13,
+              "Length": 112,
+              "Random": 24,
+              "Salience": 29,
+              "Other_Non-semantic": 1,
+              "Frequency": 1,
+              "Other_Semantic": 1
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 260,
+            "inferable_samples": 210,
+            "category_counts": {
+              "Positional": 174,
+              "Lexicographic": 30,
+              "Length": 42,
+              "Other_Non-semantic": 1,
+              "Salience": 5,
+              "Frequency": 1,
+              "Random": 7
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "deepseek-v3.2-exp",
+      "model_name": "DeepSeek V3.2-exp",
+      "model_family": "deepseek",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 745,
+            "category_counts": {
+              "Positional": 743,
+              "Failures": 33,
+              "Random": 22,
+              "Lexicographic": 2
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 606,
+            "inferable_samples": 577,
+            "category_counts": {
+              "Positional": 577,
+              "Random": 15,
+              "Failures": 14
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 162,
+            "inferable_samples": 139,
+            "category_counts": {
+              "Positional": 132,
+              "Random": 16,
+              "Salience": 2,
+              "Lexicographic": 5,
+              "Other_Non-semantic": 2,
+              "Other_Semantic": 2,
+              "Failures": 3
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 119,
+            "inferable_samples": 103,
+            "category_counts": {
+              "Positional": 99,
+              "Random": 11,
+              "Other_Non-semantic": 2,
+              "Lexicographic": 3,
+              "Failures": 2,
+              "Salience": 1,
+              "Other_Semantic": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "claude-haiku-4.5",
+      "model_name": "Claude Haiku 4.5",
+      "model_family": "anthropic",
+      "is_reasoning": false,
+      "variations": {
+        "strategy": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 434,
+            "category_counts": {
+              "Failures": 366,
+              "Lexicographic": 434
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 552,
+            "inferable_samples": 330,
+            "category_counts": {
+              "Lexicographic": 330,
+              "Failures": 222
+            }
+          }
+        },
+        "heuristic": {
+          "all_pairs": {
+            "total_samples": 800,
+            "inferable_samples": 789,
+            "category_counts": {
+              "Lexicographic": 779,
+              "Salience": 10,
+              "Failures": 11
+            }
+          },
+          "differed_in_control": {
+            "total_samples": 552,
+            "inferable_samples": 550,
+            "category_counts": {
+              "Lexicographic": 541,
+              "Salience": 9,
+              "Failures": 2
+            }
+          }
+        }
+      }
+    }
+  ]
+}

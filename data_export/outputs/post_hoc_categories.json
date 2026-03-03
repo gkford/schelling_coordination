@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-26T02:19:04.320975Z",
+    "description": "Aggregated category distribution for post-hoc explanation data",
+    "dataset": "salient_vs_alphabetical_elo",
+    "explanation": "Post-hoc: Model asked 'Explain the primary reason you made that choice.' AFTER making choice",
+    "subsets_explained": {
+      "all_pairs": "All 400 pairs \u00d7 2 orderings = up to 800 samples",
+      "differed_in_control": "Only pairs where AB and BA made different choices in control condition"
+    },
+    "categories": [
+      "Failures",
+      "Frequency",
+      "Length",
+      "Lexicographic",
+      "Other_Non-semantic",
+      "Other_Semantic",
+      "Positional",
+      "Random",
+      "Rationalization",
+      "Salience",
+      "The explanation provides multiple reasons, but the PRIMARY and most emphasized reasoning is about commonality/frequency. The model explicitly states it chose \"wonderful\" because it is \"a more common...word\" and mentions \"familiarity\" as a key factor for coordination.\n\nWhile positive valence is also mentioned, it appears secondary to the frequency-based reasoning, which is presented first and emphasized as the main coordination strategy.\n\n**Frequency**",
+      "The explanation provides multiple reasons, but the primary/most emphasized reasoning is about the semantic meaning of \"wonder\" - specifically its association with curiosity, pondering, and questioning. This is reasoning based on the word's semantic content and associations.\n\nThe mention of commonality/frequency comes secondary (\"Additionally...\").\n\nThe primary reasoning is about word associations and semantic meaning.\n\n**Answer",
+      "The explanation provides two distinct reasons",
+      "The model's primary reasoning is that \"warmth\" is \"more abstract\" compared to \"brick\" which is \"concrete and physical.\" This is explicitly stated as the first reason before discussing emotional resonance or coordination strategy.\n\n**Other_Semantic**"
+    ],
+    "models_included": 4
+  },
+  "results": [
+    {
+      "model_id": "gpt-4.1",
+      "model_name": "GPT-4.1",
+      "model_family": "openai",
+      "is_reasoning": false,
+      "all_pairs": {
+        "total_samples": 800,
+        "category_counts": {
+          "Positional": 742,
+          "Lexicographic": 14,
+          "Failures": 11,
+          "Salience": 18,
+          "Rationalization": 12,
+          "Frequency": 1,
+          "Other_Semantic": 2
+        },
+        "subcategory_counts": {
+          "Positional:first": 678,
+          "Positional:second": 62,
+          "Lexicographic:ascending": 14,
+          "Failures:unclear": 11,
+          "Positional:ambiguous": 2,
+          "Salience:positive": 18,
+          "Rationalization:contradictory": 12,
+          "Frequency:common": 1,
+          "Other_Semantic:association": 2
+        }
+      },
+      "differed_in_control": {
+        "total_samples": 378,
+        "category_counts": {
+          "Positional": 358,
+          "Failures": 3,
+          "Salience": 4,
+          "Lexicographic": 4,
+          "Rationalization": 7,
+          "Frequency": 1,
+          "Other_Semantic": 1
+        },
+        "subcategory_counts": {
+          "Positional:first": 348,
+          "Failures:unclear": 3,
+          "Positional:second": 10,
+          "Salience:positive": 4,
+          "Lexicographic:ascending": 4,
+          "Rationalization:contradictory": 7,
+          "Frequency:common": 1,
+          "Other_Semantic:association": 1
+        }
+      }
+    },
+    {
+      "model_id": "gpt-4.1-mini",
+      "model_name": "GPT-4.1 Mini",
+      "model_family": "openai",
+      "is_reasoning": false,
+      "all_pairs": {
+        "total_samples": 800,
+        "category_counts": {
+          "Salience": 635,
+          "Failures": 20,
+          "Other_Semantic": 59,
+          "Frequency": 44,
+          "Positional": 24,
+          "Rationalization": 14,
+          "Other_Non-semantic": 2,
+          "The explanation provides two distinct reasons": 2
+        },
+        "subcategory_counts": {
+          "Salience:positive": 628,
+          "Failures:unclear": 16,
+          "Other_Semantic:concrete": 59,
+          "Frequency:common": 40,
+          "Failures:no_explanation": 3,
+          "Positional:first": 24,
+          "Rationalization:contradictory": 2,
+          "Salience:ambiguous": 6,
+          "Frequency:rare": 4,
+          "Rationalization:vague": 9,
+          "Other_Non-semantic:other": 2,
+          "The explanation provides two distinct reasons:(1) it's a positive word, and (2) it's commonly used.": 2,
+          "Failures:refusal": 1,
+          "Rationalization:fabricated": 3,
+          "Salience:negative": 1
+        }
+      },
+      "differed_in_control": {
+        "total_samples": 78,
+        "category_counts": {
+          "Salience": 50,
+          "Other_Semantic": 13,
+          "Positional": 5,
+          "Frequency": 7,
+          "Rationalization": 2,
+          "Failures": 1
+        },
+        "subcategory_counts": {
+          "Salience:positive": 48,
+          "Other_Semantic:concrete": 13,
+          "Positional:first": 5,
+          "Frequency:common": 7,
+          "Rationalization:fabricated": 2,
+          "Failures:unclear": 1,
+          "Salience:ambiguous": 2
+        }
+      }
+    },
+    {
+      "model_id": "gpt-4.1-nano",
+      "model_name": "GPT-4.1 Nano",
+      "model_family": "openai",
+      "is_reasoning": false,
+      "all_pairs": {
+        "total_samples": 800,
+        "category_counts": {
+          "Salience": 651,
+          "Failures": 40,
+          "Other_Semantic": 67,
+          "Positional": 6,
+          "Frequency": 27,
+          "Random": 1,
+          "Rationalization": 7,
+          "The explanation provides multiple reasons, but the primary/most emphasized reasoning is about the semantic meaning of \"wonder\" - specifically its association with curiosity, pondering, and questioning. This is reasoning based on the word's semantic content and associations.\n\nThe mention of commonality/frequency comes secondary (\"Additionally...\").\n\nThe primary reasoning is about word associations and semantic meaning.\n\n**Answer": 1
+        },
+        "subcategory_counts": {
+          "Salience:negative": 2,
+          "Salience:positive": 643,
+          "Failures:unclear": 36,
+          "Other_Semantic:concrete": 53,
+          "Positional:second": 2,
+          "Frequency:common": 23,
+          "Positional:first": 4,
+          "Random:explicit": 1,
+          "Rationalization:vague": 3,
+          "Failures:no_explanation": 4,
+          "The explanation provides multiple reasons, but the primary/most emphasized reasoning is about the semantic meaning of \"wonder\" - specifically its association with curiosity, pondering, and questioning. This is reasoning based on the word's semantic content and associations.\n\nThe mention of commonality/frequency comes secondary (\"Additionally...\").\n\nThe primary reasoning is about word associations and semantic meaning.\n\n**Answer:** Other_Semantic:association": 1,
+          "Other_Semantic:association": 7,
+          "Other_Semantic:category": 3,
+          "Other_Semantic:abstract": 2,
+          "Other_Semantic:other": 2,
+          "Rationalization:fabricated": 3,
+          "Rationalization:contradictory": 1,
+          "Salience:ambiguous": 6,
+          "Frequency:rare": 4
+        }
+      },
+      "differed_in_control": {
+        "total_samples": 208,
+        "category_counts": {
+          "Salience": 172,
+          "Positional": 1,
+          "Failures": 6,
+          "Other_Semantic": 21,
+          "Random": 1,
+          "Frequency": 6,
+          "Rationalization": 1
+        },
+        "subcategory_counts": {
+          "Salience:negative": 2,
+          "Salience:positive": 167,
+          "Positional:second": 1,
+          "Failures:unclear": 5,
+          "Other_Semantic:concrete": 19,
+          "Random:explicit": 1,
+          "Frequency:common": 6,
+          "Failures:no_explanation": 1,
+          "Other_Semantic:category": 1,
+          "Other_Semantic:abstract": 1,
+          "Salience:ambiguous": 3,
+          "Rationalization:vague": 1
+        }
+      }
+    },
+    {
+      "model_id": "deepseek-v3",
+      "model_name": "DeepSeek V3",
+      "model_family": "deepseek",
+      "is_reasoning": false,
+      "all_pairs": {
+        "total_samples": 800,
+        "category_counts": {
+          "Salience": 249,
+          "Failures": 51,
+          "Positional": 325,
+          "Frequency": 87,
+          "Other_Semantic": 61,
+          "Length": 10,
+          "Lexicographic": 7,
+          "Rationalization": 6,
+          "The explanation provides multiple reasons, but the PRIMARY and most emphasized reasoning is about commonality/frequency. The model explicitly states it chose \"wonderful\" because it is \"a more common...word\" and mentions \"familiarity\" as a key factor for coordination.\n\nWhile positive valence is also mentioned, it appears secondary to the frequency-based reasoning, which is presented first and emphasized as the main coordination strategy.\n\n**Frequency**": 1,
+          "The model's primary reasoning is that \"warmth\" is \"more abstract\" compared to \"brick\" which is \"concrete and physical.\" This is explicitly stated as the first reason before discussing emotional resonance or coordination strategy.\n\n**Other_Semantic**": 1,
+          "Random": 2
+        },
+        "subcategory_counts": {
+          "Salience:positive": 248,
+          "Failures:unclear": 46,
+          "Positional:first": 308,
+          "Frequency:common": 81,
+          "Failures:refusal": 4,
+          "Other_Semantic:concrete": 59,
+          "Length:shorter": 10,
+          "Positional:second": 16,
+          "Other_Semantic:other": 1,
+          "Lexicographic:ascending": 7,
+          "Frequency:rare": 6,
+          "Failures:no_explanation": 1,
+          "Positional:ambiguous": 1,
+          "Rationalization:contradictory": 4,
+          "The explanation provides multiple reasons, but the PRIMARY and most emphasized reasoning is about commonality/frequency. The model explicitly states it chose \"wonderful\" because it is \"a more common...word\" and mentions \"familiarity\" as a key factor for coordination.\n\nWhile positive valence is also mentioned, it appears secondary to the frequency-based reasoning, which is presented first and emphasized as the main coordination strategy.\n\n**Frequency**:**common**": 1,
+          "Salience:negative": 1,
+          "Rationalization:vague": 2,
+          "The model's primary reasoning is that \"warmth\" is \"more abstract\" compared to \"brick\" which is \"concrete and physical.\" This is explicitly stated as the first reason before discussing emotional resonance or coordination strategy.\n\n**Other_Semantic**:**concrete**": 1,
+          "Random:explicit": 2,
+          "Other_Semantic:abstract": 1
+        }
+      },
+      "differed_in_control": {
+        "total_samples": 260,
+        "category_counts": {
+          "Salience": 47,
+          "Positional": 121,
+          "Failures": 11,
+          "Other_Semantic": 27,
+          "Frequency": 42,
+          "Lexicographic": 4,
+          "Length": 4,
+          "Rationalization": 3,
+          "Random": 1
+        },
+        "subcategory_counts": {
+          "Salience:positive": 47,
+          "Positional:first": 117,
+          "Failures:refusal": 1,
+          "Failures:unclear": 10,
+          "Other_Semantic:concrete": 26,
+          "Positional:second": 4,
+          "Frequency:common": 41,
+          "Lexicographic:ascending": 4,
+          "Length:shorter": 4,
+          "Frequency:rare": 1,
+          "Rationalization:contradictory": 1,
+          "Rationalization:vague": 2,
+          "Random:explicit": 1,
+          "Other_Semantic:abstract": 1
+        }
+      }
+    }
+  ]
+}

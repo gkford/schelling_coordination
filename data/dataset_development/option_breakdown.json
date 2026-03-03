@@ -1,0 +1,42 @@
+{
+  "mundane_emojis": [
+    "📏", "📐", "📋", "📌", "📍", "🧷", "🪙", "🧱", "🥄", "🥢",
+    "📦", "📪", "🛒", "🖊️", "✏️", "📝", "🗂️", "🗄️", "📂", "📁",
+    "🥕", "🥗", "🧂", "💺", "🧦", "🚌", "🚕", "🥛", "🥣", "🍳",
+    "🍞", "🥦", "🥒", "🥔", "🍉", "🍐", "🥑", "🦗", "👣"
+  ],
+  
+  "salient_emojis": {
+    "undesirable": [
+      "💀", "💣", "💔", "👹", "💥", "🗡️", "💉", "🕷️", "🦂", "👻",
+      "😈", "🧟", "🌋", "🌪️", "🚨", "⚠️"
+    ],
+    "desirable": [
+      "🔥", "👁️", "⚡", "❤️", "⭐", "🚀"
+    ]
+  },
+  
+  "symbols": {
+    "mathematical": ["∃", "∩", "∪"],
+    "cjk": ["中", "会", "集", "駅"],
+    "emoji_duplicates": ["⭐", "🎯", "🔥", "🧲"]
+  },
+  
+  "words": ["beige", "neutral", "pave", "wilt"],
+  
+  "notes": {
+    "categorization_rationale": {
+      "undesirable": "Items associated with danger, death, pain, or negative emotions",
+      "desirable": "Items that could be seen as exciting, powerful, or positive despite being salient",
+      "ambiguous": "🔥 appears in both salient_emojis.desirable and symbols.emoji_duplicates"
+    },
+    "total_counts": {
+      "mundane_emojis": 39,
+      "salient_undesirable": 14,
+      "salient_desirable": 8,
+      "symbols": 11,
+      "words": 4,
+      "total_items": 76
+    }
+  }
+}
