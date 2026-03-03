@@ -2,6 +2,10 @@
 
 An evaluation framework for testing whether LLMs can solve [Schelling coordination games](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) — choosing matching answers with an identical copy of themselves without communication. Built on [Inspect AI](https://inspect.ai-safety-institute.org.uk/).
 
+## Write Up:
+
+https://gkford.github.io/schelling_explainer/
+
 ## How It Works
 
 Each evaluation presents a model with two options (e.g., two words, two emojis) and asks it to pick one. The model is told it has an identical twin with the same options in reversed order. The key question: can the model coordinate with its twin to pick the same option?
