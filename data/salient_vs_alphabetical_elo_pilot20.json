@@ -1,0 +1,151 @@
+{
+  "dataset_id": "salient_vs_alphabetical_elo_pilot20",
+  "description": "First 20 pairs of salient_vs_alphabetical_elo, for introspect/reason ablation pilot",
+  "methodology": "Words selected based on Elo ratings from 60+ passes across 4 models (Claude 3.5 Haiku, GPT-4.1 Mini, Kimi K2, DeepSeek V3). Salient words averaged 1591-1689 Elo, mundane words averaged 1236-1419 Elo.",
+  "salient_words": [
+    "virtue",
+    "peace",
+    "optimal",
+    "wisdom",
+    "serenity",
+    "wholesome",
+    "serendipity",
+    "wonder",
+    "wonderful",
+    "success",
+    "tenderness",
+    "warmth",
+    "vitality",
+    "perfection",
+    "playfulness",
+    "profound",
+    "superb",
+    "phenomenal",
+    "wondrous",
+    "unity"
+  ],
+  "alphabetical_words": [
+    "bland",
+    "gutter",
+    "insipid",
+    "generic",
+    "caulk",
+    "gravel",
+    "grout",
+    "cubicle",
+    "beige",
+    "cement",
+    "asphalt",
+    "carpet",
+    "average",
+    "gypsum",
+    "drywall",
+    "flooring",
+    "duct",
+    "dowel",
+    "brick",
+    "hinge"
+  ],
+  "pairs": [
+    {
+      "pair_id": "001",
+      "option_A": "virtue",
+      "option_B": "bland"
+    },
+    {
+      "pair_id": "002",
+      "option_A": "virtue",
+      "option_B": "gutter"
+    },
+    {
+      "pair_id": "003",
+      "option_A": "virtue",
+      "option_B": "insipid"
+    },
+    {
+      "pair_id": "004",
+      "option_A": "virtue",
+      "option_B": "generic"
+    },
+    {
+      "pair_id": "005",
+      "option_A": "virtue",
+      "option_B": "caulk"
+    },
+    {
+      "pair_id": "006",
+      "option_A": "virtue",
+      "option_B": "gravel"
+    },
+    {
+      "pair_id": "007",
+      "option_A": "virtue",
+      "option_B": "grout"
+    },
+    {
+      "pair_id": "008",
+      "option_A": "virtue",
+      "option_B": "cubicle"
+    },
+    {
+      "pair_id": "009",
+      "option_A": "virtue",
+      "option_B": "beige"
+    },
+    {
+      "pair_id": "010",
+      "option_A": "virtue",
+      "option_B": "cement"
+    },
+    {
+      "pair_id": "011",
+      "option_A": "virtue",
+      "option_B": "asphalt"
+    },
+    {
+      "pair_id": "012",
+      "option_A": "virtue",
+      "option_B": "carpet"
+    },
+    {
+      "pair_id": "013",
+      "option_A": "virtue",
+      "option_B": "average"
+    },
+    {
+      "pair_id": "014",
+      "option_A": "virtue",
+      "option_B": "gypsum"
+    },
+    {
+      "pair_id": "015",
+      "option_A": "virtue",
+      "option_B": "drywall"
+    },
+    {
+      "pair_id": "016",
+      "option_A": "virtue",
+      "option_B": "flooring"
+    },
+    {
+      "pair_id": "017",
+      "option_A": "virtue",
+      "option_B": "duct"
+    },
+    {
+      "pair_id": "018",
+      "option_A": "virtue",
+      "option_B": "dowel"
+    },
+    {
+      "pair_id": "019",
+      "option_A": "virtue",
+      "option_B": "brick"
+    },
+    {
+      "pair_id": "020",
+      "option_A": "virtue",
+      "option_B": "hinge"
+    }
+  ]
+}

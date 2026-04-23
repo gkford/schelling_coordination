@@ -39,6 +39,19 @@ MODEL_SPECIFIC_CONFIGS = {
             }
         }
     },
+
+    # GPT-5.4 family supports reasoning_effort="none" (default for that family).
+    # Not valid for older gpt-5 models, which use "minimal" as the lowest value.
+    "openai_none_flex": {
+        "eval_kwargs": {
+            "reasoning_summary": "detailed",
+            "reasoning_effort": "none",
+            "model_args": {
+                "service_tier": "flex",
+                "client_timeout": 1200
+            }
+        }
+    },
     # Legacy config used for some earlier o4 version of the eval
     "openai_high_effort": {
         "eval_kwargs": {

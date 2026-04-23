@@ -85,7 +85,37 @@ EVAL_CONFIGS = {
         "model_specific_config": "openai_high_flex",
         "temperature": "unsupported",
         "top_p": "unsupported",
-        "max_tokens": "default" 
+        "max_tokens": "default"
+    },
+
+    "gpt_5_4_nano_none_march_26": {
+        "model": "openai/gpt-5.4-nano-2026-03-17",
+        "post_hoc_explanation": False,
+        "reasoning_model": True,
+        "model_specific_config": "openai_none_flex",
+        "temperature": "unsupported",
+        "top_p": "unsupported",
+        "max_tokens": "default"
+    },
+
+    "gpt_5_4_mini_none_march_26": {
+        "model": "openai/gpt-5.4-mini-2026-03-17",
+        "post_hoc_explanation": False,
+        "reasoning_model": True,
+        "model_specific_config": "openai_none_flex",
+        "temperature": "unsupported",
+        "top_p": "unsupported",
+        "max_tokens": "default"
+    },
+
+    "gpt_5_4_none_march_26": {
+        "model": "openai/gpt-5.4-2026-03-05",
+        "post_hoc_explanation": False,
+        "reasoning_model": True,
+        "model_specific_config": "openai_none_flex",
+        "temperature": "unsupported",
+        "top_p": "unsupported",
+        "max_tokens": "default"
     },
 
     "qwen_3_sept_25": {
