@@ -40,7 +40,7 @@ MODELS = [
     ("gpt_5_4_none_march_26",       "GPT-5.4 (effort=none)"),
 ]
 
-PROMPTS = ["introspect_sita", "reason_sita"]
+PROMPTS = ["introspect_sita", "reason_sita", "strategise_sita"]
 
 
 def analyse_run(config_name: str, prompt: str) -> dict | None:
